@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "E - AUTO ECOLE FREDERIC",
+    "agrement": "E1408000110",
+    "adresse": "4 rue Gigaud",
+    "cp": "80620",
+    "ville": "DOMART EN PONTHIEU",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "46,60%",
+    "tauxb1": "100,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.1330127",
+    "lat": 50.074196
+  }
+]

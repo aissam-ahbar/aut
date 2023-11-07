@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Solange",
+    "agrement": "E1008406950",
+    "adresse": "86 rue Crillon",
+    "cp": "84310",
+    "ville": "MORIERES LES AVIGNON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.9052485",
+    "lat": 43.9412126
+  }
+]

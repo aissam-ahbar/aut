@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "2TAVARES",
+    "agrement": "E1207610650",
+    "adresse": "2 RUE MOLIERE",
+    "cp": "76120",
+    "ville": "LE GRAND QUEVILLY",
+    "tauxa1": "",
+    "tauxa2": "84,62%",
+    "tauxb": "49,02%",
+    "tauxb1": "",
+    "tauxbe": "66,67%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.0505684",
+    "lat": 49.4099768
+  }
+]

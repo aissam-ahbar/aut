@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SYLVIE",
+    "agrement": "E0309C00610",
+    "adresse": "469 C ROUTE DE REMIRE",
+    "cp": "97354",
+    "ville": "REMIRE MONTJOLY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,35%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-52.2760445",
+    "lat": 4.8870771
+  }
+]

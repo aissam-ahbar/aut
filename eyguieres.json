@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LA STRADA",
+    "agrement": "E0301361730",
+    "adresse": "16 FAUBOURG REYRE",
+    "cp": "13430",
+    "ville": "EYGUIERES",
+    "tauxa1": "",
+    "tauxa2": "84,62%",
+    "tauxb": "64,71%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.0338025",
+    "lat": 43.6951715
+  }
+]

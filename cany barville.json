@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SAM CONDUITE",
+    "agrement": "E1307600180",
+    "adresse": "40 Rue du Général De Gaulle",
+    "cp": "76450",
+    "ville": "CANY BARVILLE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "49,12%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.6343998",
+    "lat": 49.7870498
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FORMAROUTE chambon",
+    "agrement": "E1002300990",
+    "adresse": "5 rue des Forts",
+    "cp": "23170",
+    "ville": "CHAMBON SUR VOUEIZE",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "69,74%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.4240741",
+    "lat": 46.189943
+  }
+]

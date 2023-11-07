@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SARL POPEYE",
+    "agrement": "E1301000010",
+    "adresse": "4 boulevard de l'ouest",
+    "cp": "10600",
+    "ville": "La Chapelle Saint Luc",
+    "tauxa1": "100,00%",
+    "tauxa2": "84,21%",
+    "tauxb": "70,46%",
+    "tauxb1": "",
+    "tauxbe": "37,50%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.025045",
+    "lat": 48.3043954
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ANNICK",
+    "agrement": "E0301355450",
+    "adresse": "40 AV DE LA LIBERATION",
+    "cp": "13870",
+    "ville": "ROGNONAS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "68,75%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7997221",
+    "lat": 43.8986308
+  }
+]

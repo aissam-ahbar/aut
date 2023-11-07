@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "XX-CECOVAM - SAINT-PAULIEN",
+    "agrement": "E1604300080",
+    "adresse": "ZA DE NOLHAC",
+    "cp": "43350",
+    "ville": "SAINT-PAULIEN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "100,00%",
+    "tauxce": "100,00%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.813283776963595",
+    "lat": 45.10924555
+  }
+]

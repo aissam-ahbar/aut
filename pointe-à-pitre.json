@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "École de Conduite de Bergevin",
+    "agrement": "E1697100010",
+    "adresse": "13, résidence Ciboneye",
+    "cp": "97110",
+    "ville": "Pointe-à-Pitre",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "43,48%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-61.54351085415098",
+    "lat": 16.24685295
+  }
+]

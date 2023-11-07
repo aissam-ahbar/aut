@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Auto-école du BARRY",
+    "agrement": "E1703100020",
+    "adresse": "Centre commercial du BARRY",
+    "cp": "31450",
+    "ville": "AYGUESVIVES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,95%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.597998601303187",
+    "lat": 43.43670815
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1206912850",
+    "raison_sociale": "PATRICK",
+    "adresse": "74 ROUTE NATIONALE 6",
+    "cp": 69380,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "LISSIEU",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.7424452",
+    "lat": 45.8649462
+  }
+]

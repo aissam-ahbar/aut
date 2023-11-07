@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2200100200",
+    "raison_sociale": "VIRAGE PERMIS",
+    "adresse": "289 ROUTE DU 3 SEPTEMBRE 1944",
+    "cp": 1330,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "AMBERIEUX-EN-DOMBES",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.8925891",
+    "lat": 45.9996407
+  }
+]

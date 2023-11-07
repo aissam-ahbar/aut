@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FRANCAISE",
+    "agrement": "E0208703650",
+    "adresse": "GUET DU MARCHAND",
+    "cp": "87570",
+    "ville": "RILHAC RANCON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "80,00%",
+    "tauxc1": "79,76%",
+    "tauxce": "90,00%",
+    "tauxd": "80,95%",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "1.310834",
+    "lat": 45.8961818
+  }
+]

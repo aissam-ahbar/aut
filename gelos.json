@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CHAMBRIERE SARL",
+    "agrement": "E0206408400",
+    "adresse": "12 RUE EUGENE DAURE",
+    "cp": "64110",
+    "ville": "GELOS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,71%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.3756065",
+    "lat": 43.2877904
+  }
+]

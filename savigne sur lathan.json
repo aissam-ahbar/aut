@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ACCESS AUTO MOTO",
+    "agrement": "E1403700140",
+    "adresse": "6 place Jacques du Bellay",
+    "cp": "37340",
+    "ville": "SAVIGNE SUR LATHAN",
+    "tauxa1": "",
+    "tauxa2": "85,71%",
+    "tauxb": "59,04%",
+    "tauxb1": "",
+    "tauxbe": "0,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.322416745370913",
+    "lat": 47.44488405
+  }
+]

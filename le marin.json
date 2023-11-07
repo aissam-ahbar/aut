@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ENER",
+    "agrement": "E0309B01680",
+    "adresse": "RUE DIAKA",
+    "cp": "97290",
+    "ville": "LE MARIN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,49%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-60.8708729",
+    "lat": 14.4722545
+  }
+]

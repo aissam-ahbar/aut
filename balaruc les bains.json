@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BASSIN DE THAU STE",
+    "agrement": "E1103407090",
+    "adresse": "7 avenue du port",
+    "cp": "34540",
+    "ville": "Balaruc les Bains",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.68003",
+    "lat": 43.4414079
+  }
+]

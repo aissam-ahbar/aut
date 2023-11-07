@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "TURPIN AUTO-ECOLE OLSAGUI",
+    "agrement": "E1502400060",
+    "adresse": "1 RUE DE LA ROQUE",
+    "cp": "24100",
+    "ville": "CREYSSE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "89,06%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.5501521",
+    "lat": 44.8513218
+  }
+]

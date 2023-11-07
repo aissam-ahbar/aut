@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ZZ DES OLIVIERS 2",
+    "agrement": "E1303100090",
+    "adresse": "44 AVENUE RAYMOND SOMMER",
+    "cp": "31480",
+    "ville": "CADOURS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "44,44%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.0471611",
+    "lat": 43.7296027
+  }
+]

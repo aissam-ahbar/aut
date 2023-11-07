@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "RAYMOND",
+    "agrement": "E0107811350",
+    "adresse": "14,RUE DES PLANTES",
+    "cp": "78600",
+    "ville": "MAISONS LAFFITTE",
+    "tauxa1": "100,00%",
+    "tauxa2": "87,23%",
+    "tauxb": "45,77%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.145424",
+    "lat": 48.947893
+  }
+]

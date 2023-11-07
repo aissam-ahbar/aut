@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "permis_2.0",
+    "agrement": "E1509100350",
+    "adresse": "25 RUE DE BRUNOY",
+    "cp": "91480",
+    "ville": "QUINCY SOUS SENART",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "51,30%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.5275023",
+    "lat": 48.6779982
+  }
+]

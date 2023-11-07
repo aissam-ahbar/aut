@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MARAIS",
+    "agrement": "E0205004430",
+    "adresse": "1 RUE DE SAINT LO",
+    "cp": "50190",
+    "ville": "PERIERS",
+    "tauxa1": "",
+    "tauxa2": "66,67%",
+    "tauxb": "47,37%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.4081225",
+    "lat": 49.1861595
+  }
+]

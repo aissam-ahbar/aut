@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "INTER CONDUITE",
+    "agrement": "E1600400050",
+    "adresse": "5 PLACE DU COMMERCE",
+    "cp": "4160",
+    "ville": "CHATEAU ARNOUX SAINT AUBAN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "82,98%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.007868614802495",
+    "lat": 44.1011715
+  }
+]

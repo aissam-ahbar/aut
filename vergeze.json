@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CIGALE 30",
+    "agrement": "E1103417130",
+    "adresse": "RUE DE L'ANCIENNE POSTE",
+    "cp": "30310",
+    "ville": "VERGEZE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "62,39%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.2205842",
+    "lat": 43.7435983
+  }
+]

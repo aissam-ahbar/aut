@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FLOTTE",
+    "agrement": "E0201705460",
+    "adresse": "ZA LA CROIX MICHAUD",
+    "cp": "17630",
+    "ville": "LA FLOTTE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "41,46%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.323889136976076",
+    "lat": 46.18069795
+  }
+]

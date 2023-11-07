@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2201800010",
+    "raison_sociale": "SAS AREA 2",
+    "adresse": "20 RUE DES VERDINS",
+    "cp": 18230,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SAINT-DOULCHARD",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.3788356",
+    "lat": 47.105438
+  }
+]

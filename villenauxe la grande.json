@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU PERREY",
+    "agrement": "E0201001510",
+    "adresse": "3 RUE DU PERREY",
+    "cp": "10370",
+    "ville": "VILLENAUXE LA GRANDE",
+    "tauxa1": "0,00%",
+    "tauxa2": "87,18%",
+    "tauxb": "67,74%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.5555115",
+    "lat": 48.5920782
+  }
+]

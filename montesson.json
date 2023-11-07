@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SAS Montesson Conduite",
+    "agrement": "E1307800310",
+    "adresse": "4 rue du Général Leclerc",
+    "cp": "78360",
+    "ville": "MONTESSON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "32,54%",
+    "tauxb1": "0,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.1510838",
+    "lat": 48.9083884
+  }
+]

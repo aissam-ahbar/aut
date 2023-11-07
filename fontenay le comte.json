@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "TURPEAU FORMATION",
+    "agrement": "E1708500160",
+    "adresse": "Centre Commercial du Porteau",
+    "cp": "85200",
+    "ville": "FONTENAY LE COMTE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "93,75%",
+    "tauxb1": "",
+    "tauxbe": "75,00%",
+    "tauxc1": "88,79%",
+    "tauxce": "94,51%",
+    "tauxd": "90,91%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.809268565064776",
+    "lat": 46.4760375
+  }
+]

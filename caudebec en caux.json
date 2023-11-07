@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FRANCOIS 2",
+    "agrement": "E1607600270",
+    "adresse": "16 Rue de la Vicomté",
+    "cp": "76490",
+    "ville": "CAUDEBEC EN CAUX",
+    "tauxa1": "",
+    "tauxa2": "66,67%",
+    "tauxb": "54,76%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.7273998",
+    "lat": 49.5249036
+  }
+]

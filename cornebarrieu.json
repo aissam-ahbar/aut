@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CORNEBARRIEU CONDUITE",
+    "agrement": "E1603100210",
+    "adresse": "5 route de Toulouse",
+    "cp": "31700",
+    "ville": "CORNEBARRIEU",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,47%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.350264",
+    "lat": 43.6457735
+  }
+]

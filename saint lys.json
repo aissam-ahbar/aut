@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ECF SACAREAU SAINT LYS",
+    "agrement": "E0203102520",
+    "adresse": "11 avenue de la République",
+    "cp": "31470",
+    "ville": "SAINT LYS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,22%",
+    "tauxb1": "",
+    "tauxbe": "50,00%",
+    "tauxc1": "83,33%",
+    "tauxce": "80,00%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.1751416",
+    "lat": 43.5125173
+  }
+]

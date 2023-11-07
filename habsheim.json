@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2006800010",
+    "raison_sociale": "ARC EN CIEL",
+    "adresse": "14 RUE DE L INDUSTRIE",
+    "cp": 68440,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "HABSHEIM",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.4196159",
+    "lat": 47.7412586
+  }
+]

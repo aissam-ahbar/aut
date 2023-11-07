@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Auto-école Starter",
+    "agrement": "E1302200050",
+    "adresse": "22 rue de Moncontour",
+    "cp": "22600",
+    "ville": "Loudéac",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "68,57%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.75558959623553",
+    "lat": 48.1776081
+  }
+]

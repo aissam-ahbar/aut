@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "3",
+    "agrement": "E0200300470",
+    "adresse": "3 RUE DE VOUROUX",
+    "cp": "3150",
+    "ville": "VARENNES SUR ALLIER",
+    "tauxa1": "100,00%",
+    "tauxa2": "93,55%",
+    "tauxb": "65,28%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.397317",
+    "lat": 46.3150148
+  }
+]

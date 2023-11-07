@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0306804560",
+    "raison_sociale": "VEGA",
+    "adresse": "45 RUE ACKLIN",
+    "cp": 68440,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "LANDSER",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.3953337",
+    "lat": 47.6859022
+  }
+]

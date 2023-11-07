@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1404500110",
+    "raison_sociale": "AE DU LYCEE_CHATILLON SUR LOIRE",
+    "adresse": "7 RUE CHAMPAULT",
+    "cp": 45360,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "CHATILLON-SUR-LOIRE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.7534648",
+    "lat": 47.5922518
+  }
+]

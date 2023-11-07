@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2306800050",
+    "raison_sociale": "L ECOLE DE CONDUITE STAR",
+    "adresse": "33 RUE DU GENERAL DE GAULLE",
+    "cp": 68220,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "HESINGUE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.5205847",
+    "lat": 47.5762174
+  }
+]

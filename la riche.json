@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AVENIR AUTO MOTO LA RICHE",
+    "agrement": "E1803700030",
+    "adresse": "38 place Sainte Anne",
+    "cp": "37520",
+    "ville": "LA RICHE",
+    "tauxa1": "0,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "61,90%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.666457",
+    "lat": 47.3905561
+  }
+]

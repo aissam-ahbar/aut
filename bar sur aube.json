@@ -1,0 +1,35 @@
+[
+  {
+    "raison_sociale": "auto école de la colline",
+    "agrement": "E1201002150",
+    "adresse": "43 rue Gaston Bachelard",
+    "cp": "10200",
+    "ville": "Bar sur Aube",
+    "tauxa1": "100,00%",
+    "tauxa2": "64,71%",
+    "tauxb": "59,64%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7043824",
+    "lat": 48.229991
+  }
+] "lat": 48.2377356
+  }
+]

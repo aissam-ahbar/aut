@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2106700070",
+    "raison_sociale": "GREG",
+    "adresse": "44 RUE DU MARECHAL DE LATTRE DE TASSIGNY",
+    "cp": 67440,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "MARMOUTIER",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Non",
+    "permis_B": "Non",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.3771679",
+    "lat": 48.6929234
+  }
+]

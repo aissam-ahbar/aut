@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AES",
+    "agrement": "E0308901310",
+    "adresse": "5 bd du nord",
+    "cp": "89110",
+    "ville": "AILLANT SUR THOLON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.3502986",
+    "lat": 47.8763666
+  }
+]

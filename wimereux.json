@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0306214290",
+    "raison_sociale": "E.C.F. JEAN MARIE SAUVAGE",
+    "adresse": "86 RUE CARNOT",
+    "cp": 62930,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "WIMEREUX",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "1.6110535",
+    "lat": 50.766914
+  }
+]

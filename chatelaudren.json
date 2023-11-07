@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DE CONDUITE DU LEFF",
+    "agrement": "E0802205870",
+    "adresse": "29 RUE PASTEUR",
+    "cp": "22170",
+    "ville": "CHATELAUDREN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "69,03%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.9727354",
+    "lat": 48.5415978
+  }
+]

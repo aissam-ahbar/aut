@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MARIE-HELENE",
+    "agrement": "E0201704600",
+    "adresse": "2 PLACE DE LA MADELEINE",
+    "cp": "17160",
+    "ville": "MATHA",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,52%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.3217382",
+    "lat": 45.8668735
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C.CER LASSIGNY CONDUITE",
+    "agrement": "E1606000120",
+    "adresse": "2 rue Saint Crépin",
+    "cp": "60310",
+    "ville": "LASSIGNY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "45,24%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.8436012",
+    "lat": 49.5874905
+  }
+]

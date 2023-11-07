@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Centre de Conduite Bel Air",
+    "agrement": "E0801362670",
+    "adresse": "58 .ROUTE DE CABRIES",
+    "cp": "13320",
+    "ville": "BOUC BEL AIR",
+    "tauxa1": "",
+    "tauxa2": "77,78%",
+    "tauxb": "73,02%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.3959721",
+    "lat": 43.4380683
+  }
+]

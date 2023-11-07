@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2107700050",
+    "raison_sociale": "TEAM CONDUITE DU CASTELET",
+    "adresse": "78 SQUARE RONSARD",
+    "cp": 77350,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "LE MEE-SUR-SEINE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.6256308",
+    "lat": 48.5434219
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AVRE C'MAX",
+    "agrement": "E0802803270",
+    "adresse": "rue de la Baronnie",
+    "cp": "28350",
+    "ville": "Saint-Lubin-des-Joncherets",
+    "tauxa1": "",
+    "tauxa2": "90,91%",
+    "tauxb": "56,06%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "1.1976567",
+    "lat": 48.7633714
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU ROULE",
+    "agrement": "E0706911180",
+    "adresse": "97 CHEMIN DU GRAND ROULE",
+    "cp": "69350",
+    "ville": "LA MULATIERE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,22%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8070161",
+    "lat": 45.729048
+  }
+]

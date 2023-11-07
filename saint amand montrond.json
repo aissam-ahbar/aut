@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "STOP AUTO ECOLE BLASQUEZ",
+    "agrement": "E0201801530",
+    "adresse": "1 ERNEST MALLARD",
+    "cp": "18200",
+    "ville": "SAINT AMAND MONTROND",
+    "tauxa1": "77,78%",
+    "tauxa2": "92,73%",
+    "tauxb": "63,12%",
+    "tauxb1": "",
+    "tauxbe": "75,00%",
+    "tauxc1": "84,09%",
+    "tauxce": "88,89%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.506806",
+    "lat": 46.724899
+  }
+]

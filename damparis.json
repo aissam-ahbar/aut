@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DO HORIZON SAS",
+    "agrement": "E0903903060",
+    "adresse": "36 rue du Soleil",
+    "cp": "39500",
+    "ville": "DAMPARIS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.4128991",
+    "lat": 47.0733885
+  }
+]

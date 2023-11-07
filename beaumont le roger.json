@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "2 Auto ecole de l'Abbaye",
+    "agrement": "E1602700060",
+    "adresse": "9 rue Saint Nicolas",
+    "cp": "27170",
+    "ville": "Beaumont le Roger",
+    "tauxa1": "50,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "65,19%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.779370437217534",
+    "lat": 49.08111315
+  }
+]

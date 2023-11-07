@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FRANCE CONDUITE",
+    "agrement": "E0207811840",
+    "adresse": "35 AVENUE DE LA DIVISION LECLERC",
+    "cp": "78210",
+    "ville": "ST CYR L ECOLE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "39,50%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.071379",
+    "lat": 48.799812
+  }
+]

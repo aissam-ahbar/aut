@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LA MAZERIENNE",
+    "agrement": "E0300901220",
+    "adresse": "12 AVENUE DU MARECHAL FOCH",
+    "cp": "9270",
+    "ville": "MAZERES",
+    "tauxa1": "60,00%",
+    "tauxa2": "94,12%",
+    "tauxb": "63,19%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.6763639",
+    "lat": 43.2502946
+  }
+]

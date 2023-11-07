@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER Alexandre DUMAS",
+    "agrement": "E1100236040",
+    "adresse": "83 rue du général Leclerc",
+    "cp": "2600",
+    "ville": "VILLERS COTTERETS",
+    "tauxa1": "0,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "54,91%",
+    "tauxb1": "",
+    "tauxbe": "80,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.083581",
+    "lat": 49.2555434
+  }
+]

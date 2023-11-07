@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PORRAS",
+    "agrement": "E1506900040",
+    "adresse": "17 rue des marronniers",
+    "cp": "69690",
+    "ville": "CORBAS",
+    "tauxa1": "25,00%",
+    "tauxa2": "93,62%",
+    "tauxb": "58,70%",
+    "tauxb1": "",
+    "tauxbe": "55,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8941154",
+    "lat": 45.6640645
+  }
+]

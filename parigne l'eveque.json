@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DENIS - PARIGNE L'EVEQUE",
+    "agrement": "E0907204270",
+    "adresse": "1 rue du 8 mai",
+    "cp": "72250",
+    "ville": "PARIGNE L'EVEQUE",
+    "tauxa1": "100,00%",
+    "tauxa2": "92,86%",
+    "tauxb": "57,46%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.365841446483179",
+    "lat": 47.93706885
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "3 CLOCHARD STM",
+    "agrement": "E0208503470",
+    "adresse": "10 RUE DES TILLEULS",
+    "cp": "85700",
+    "ville": "ST MICHEL MT MERCURE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "88,89%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.8794517",
+    "lat": 46.8304465
+  }
+]

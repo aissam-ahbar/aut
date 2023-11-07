@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "12",
+    "agrement": "E1409200240",
+    "adresse": "97, bd de la République",
+    "cp": "92210",
+    "ville": "saint cloud",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "53,85%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.212494",
+    "lat": 48.8592245
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Maussane Conduite",
+    "agrement": "E0801362630",
+    "adresse": "Route de ST Remy de Provence.",
+    "cp": "13520",
+    "ville": "Maussane",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "64,08%",
+    "tauxb1": "",
+    "tauxbe": "75,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8102694",
+    "lat": 43.7216301
+  }
+]

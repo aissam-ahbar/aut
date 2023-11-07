@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1902200050",
+    "raison_sociale": "LUDO CONDUITE",
+    "adresse": "45 PLACE DE L'HOTEL DE VILLE",
+    "cp": 22700,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "PERROS-GUIREC",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-3.4451013",
+    "lat": 48.8155286
+  }
+]

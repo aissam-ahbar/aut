@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EC RHONE VALLEE",
+    "agrement": "E1402600060",
+    "adresse": "48 AVENUE DE LA REPUBLIQUE",
+    "cp": "26270",
+    "ville": "LORIOL SUR DROME",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "49,37%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8096072",
+    "lat": 44.7337127
+  }
+]

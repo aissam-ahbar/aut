@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0302204930",
+    "raison_sociale": "OUICE",
+    "adresse": "PLACE DE LA MAIRIE",
+    "cp": 22350,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "CAULNES",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-2.1548362",
+    "lat": 48.2884813
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PETIT auto-école",
+    "agrement": "E0302103990",
+    "adresse": "4 rue Auguste Dubois",
+    "cp": "21230",
+    "ville": "ARNAY LE DUC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.4865862",
+    "lat": 47.1316938
+  }
+]

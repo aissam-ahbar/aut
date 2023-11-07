@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "TRIBOTE / Point Conduite",
+    "agrement": "E1504400200",
+    "adresse": "3 rue de la Brière",
+    "cp": "44410",
+    "ville": "La Chapelle des Marais",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "53,54%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.2452711",
+    "lat": 47.4450833
+  }
+]

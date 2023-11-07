@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PILOTE",
+    "agrement": "E0203403540",
+    "adresse": "6 PLACE  DE LA CROIX",
+    "cp": "34680",
+    "ville": "SAINT GEORGES D ORQUES",
+    "tauxa1": "100,00%",
+    "tauxa2": "89,36%",
+    "tauxb": "64,02%",
+    "tauxb1": "100,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.7815518",
+    "lat": 43.6105952
+  }
+]

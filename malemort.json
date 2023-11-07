@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VINCENT AUTO MOTO",
+    "agrement": "E0901902570",
+    "adresse": "1 avenue Jouhandeau",
+    "cp": "19360",
+    "ville": "MALEMORT",
+    "tauxa1": "",
+    "tauxa2": "92,86%",
+    "tauxb": "58,77%",
+    "tauxb1": "",
+    "tauxbe": "66,67%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5730834",
+    "lat": 45.158726
+  }
+]

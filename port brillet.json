@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "école de conduite Berthevinoise",
+    "agrement": "E1105302030",
+    "adresse": "5 rue de la Mairie",
+    "cp": "53410",
+    "ville": "Port Brillet",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "60,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.9735012",
+    "lat": 48.1128137
+  }
+]

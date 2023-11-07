@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DANJOU",
+    "agrement": "E0405912020",
+    "adresse": "24 RUE DE LANDRECIES",
+    "cp": "59360",
+    "ville": "LE CATEAU",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "40,74%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.55148",
+    "lat": 50.1032874
+  }
+]

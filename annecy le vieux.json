@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ANNECY MOTO ECOLE",
+    "agrement": "E1707400020",
+    "adresse": "133 avenue de Genève",
+    "cp": "74940",
+    "ville": "ANNECY LE VIEUX",
+    "tauxa1": "50,00%",
+    "tauxa2": "90,15%",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.1235897",
+    "lat": 45.9250732
+  }
+]

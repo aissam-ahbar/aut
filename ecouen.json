@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "OLD SCHOOL",
+    "agrement": "E1609500090",
+    "adresse": "87 Rue de la libération",
+    "cp": "95440",
+    "ville": "ECOUEN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "69,59%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3711735",
+    "lat": 49.0246446
+  }
+]

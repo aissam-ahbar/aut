@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SEVA",
+    "agrement": "E1597400030",
+    "adresse": "760 Ravine Creuse",
+    "cp": "97440",
+    "ville": "ST ANDRE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "69,23%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "55.6599301",
+    "lat": -20.9639593
+  }
+]

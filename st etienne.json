@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ALPHA MOTO",
+    "agrement": "E0504202720",
+    "adresse": "60,RUE CHARLES DE GAULLE",
+    "cp": "42000",
+    "ville": "ST ETIENNE",
+    "tauxa1": "88,89%",
+    "tauxa2": "89,89%",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.3851656",
+    "lat": 45.4466564
+  }
+]

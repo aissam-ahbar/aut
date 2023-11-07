@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "IZERNORE",
+    "agrement": "E1700100020",
+    "adresse": "502 grande rue",
+    "cp": "1580",
+    "ville": "IZERNORE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "61,82%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.554504",
+    "lat": 46.220374
+  }
+]

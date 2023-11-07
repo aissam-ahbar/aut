@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LLERENA SA",
+    "agrement": "E0406805470",
+    "adresse": "RUE DES FRERES PEUGEOT",
+    "cp": "68127",
+    "ville": "SAINTE CROIX EN PLAINE",
+    "tauxa1": "",
+    "tauxa2": "88,10%",
+    "tauxb": "63,06%",
+    "tauxb1": "",
+    "tauxbe": "52,63%",
+    "tauxc1": "65,38%",
+    "tauxce": "78,57%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "7.3762973",
+    "lat": 48.0230737
+  }
+]

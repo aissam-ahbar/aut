@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MELGVEN",
+    "agrement": "E1302900080",
+    "adresse": "2 Place de l'Eglise",
+    "cp": "29140",
+    "ville": "MELGVEN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "61,11%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-3.834762159147509",
+    "lat": 47.90647125
+  }
+]

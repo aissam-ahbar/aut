@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "INSTITUT PROTESTANT",
+    "agrement": "I1000900010",
+    "adresse": "HAMEAU DE JEANNE PETITE",
+    "cp": "9700",
+    "ville": "SAVERDUN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "43,64%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5813768",
+    "lat": 43.2304893
+  }
+]

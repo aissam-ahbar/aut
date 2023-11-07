@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "L'Auto-Ecole",
+    "agrement": "E1801400160",
+    "adresse": "41 rue de Vaucelles",
+    "cp": "14130",
+    "ville": "Pont L'Evêque",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "40,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.180613",
+    "lat": 49.28329
+  }
+]

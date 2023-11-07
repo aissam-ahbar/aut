@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ESPACE CONDUITE",
+    "agrement": "E1305900290",
+    "adresse": "254 RUE DU CENTRE",
+    "cp": "59144",
+    "ville": "GOMMEGNIES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,98%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.7060376",
+    "lat": 50.2709902
+  }
+]

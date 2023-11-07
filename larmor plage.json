@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LARMOR CONDUITE LECOINTRE JM",
+    "agrement": "E0205604340",
+    "adresse": "12 RUE GENERAL DE GAULLE",
+    "cp": "56260",
+    "ville": "LARMOR PLAGE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "73,17%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-3.3839689",
+    "lat": 47.7071339
+  }
+]

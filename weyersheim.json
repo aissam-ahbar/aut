@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PERRINE CONDUITE",
+    "agrement": "E1206700050",
+    "adresse": "46 rue des Fossés",
+    "cp": "67720",
+    "ville": "WEYERSHEIM",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,07%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "7.8010161",
+    "lat": 48.7184391
+  }
+]

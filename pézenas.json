@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LA CONDUITE PERMISE",
+    "agrement": "E1403400010",
+    "adresse": "9 place Ledru Rollin",
+    "cp": "34120",
+    "ville": "Pézenas",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "52,27%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.4206705",
+    "lat": 43.4612722
+  }
+]

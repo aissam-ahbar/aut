@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Sarl FLASH CONDUITE STP",
+    "agrement": "E1400300060",
+    "adresse": "30 FAUBOURG PALUET",
+    "cp": "3500",
+    "ville": "SAINT POURCAIN SUR SIOULE",
+    "tauxa1": "50,00%",
+    "tauxa2": "95,45%",
+    "tauxb": "82,35%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.2969074",
+    "lat": 46.3057733
+  }
+]

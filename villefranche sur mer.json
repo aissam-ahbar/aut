@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BESSIERES",
+    "agrement": "E0200604280",
+    "adresse": "10 AV FOCH",
+    "cp": "6230",
+    "ville": "VILLEFRANCHE SUR MER",
+    "tauxa1": "0,00%",
+    "tauxa2": "91,67%",
+    "tauxb": "52,38%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.30757498724701",
+    "lat": 43.70219245
+  }
+]

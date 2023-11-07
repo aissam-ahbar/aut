@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LAVALETTE",
+    "agrement": "E1003808420",
+    "adresse": "30 Grande Rue",
+    "cp": "38700",
+    "ville": "LA TRONCHE",
+    "tauxa1": "66,67%",
+    "tauxa2": "77,78%",
+    "tauxb": "52,05%",
+    "tauxb1": "100,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.743946566349747",
+    "lat": 45.2071776
+  }
+]

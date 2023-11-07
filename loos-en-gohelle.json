@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1306200230",
+    "raison_sociale": "S.A.R.L. EROS  AUTO-ECOLE CONSTANT",
+    "adresse": "11 PLACE DE LA REPUBLIQUE",
+    "cp": 62750,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "LOOS-EN-GOHELLE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.7923846",
+    "lat": 50.4573267
+  }
+]

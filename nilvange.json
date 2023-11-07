@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AVENIR",
+    "agrement": "E0705710350",
+    "adresse": "33 rue Joffre",
+    "cp": "57240",
+    "ville": "NILVANGE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "6.048299",
+    "lat": 49.3422772
+  }
+]

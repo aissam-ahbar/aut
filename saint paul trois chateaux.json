@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ART DRIVING",
+    "agrement": "E1302600060",
+    "adresse": "2 PLACE DU MARCHE",
+    "cp": "26130",
+    "ville": "SAINT PAUL TROIS CHATEAUX",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "59,62%",
+    "tauxb1": "0,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7680422",
+    "lat": 44.3489642
+  }
+]

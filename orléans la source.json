@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PIAZZA_La Boliere",
+    "agrement": "E1304500100",
+    "adresse": "7 rue Bossuet",
+    "cp": "45100",
+    "ville": "orléans la source",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.9299071",
+    "lat": 47.8347577
+  }
+]

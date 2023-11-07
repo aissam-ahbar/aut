@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "D - CFC Amiens",
+    "agrement": "E1308000050",
+    "adresse": "10 rue du Maître du Monde",
+    "cp": "80440",
+    "ville": "GLISY",
+    "tauxa1": "100,00%",
+    "tauxa2": "89,80%",
+    "tauxb": "66,30%",
+    "tauxb1": "",
+    "tauxbe": "69,23%",
+    "tauxc1": "78,05%",
+    "tauxce": "92,59%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3875004",
+    "lat": 49.868663
+  }
+]

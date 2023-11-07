@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CONDUITE AMBORIVERAINE",
+    "agrement": "E0205301620",
+    "adresse": "17 RUE GUILLAUME LE CONQUERANT",
+    "cp": "53300",
+    "ville": "AMBRIERES LES VALLEES",
+    "tauxa1": "100,00%",
+    "tauxa2": "92,86%",
+    "tauxb": "68,85%",
+    "tauxb1": "",
+    "tauxbe": "90,91%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.6296418",
+    "lat": 48.4014418
+  }
+]

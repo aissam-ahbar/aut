@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "3D NOVALAISE",
+    "agrement": "E1507300080",
+    "adresse": "95 ROUTE DU COL DE L'EPINE",
+    "cp": "73470",
+    "ville": "NOVALAISE",
+    "tauxa1": "",
+    "tauxa2": "66,67%",
+    "tauxb": "51,00%",
+    "tauxb1": "",
+    "tauxbe": "50,00%",
+    "tauxc1": "100,00%",
+    "tauxce": "62,50%",
+    "tauxd": "50,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.7706988",
+    "lat": 45.5950401
+  }
+]

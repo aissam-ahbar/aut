@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EM CONDUITE",
+    "agrement": "E1497400340",
+    "adresse": "14 rue Desbassyns  Rivière des Pluies",
+    "cp": "97438",
+    "ville": "SAINT MARIE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "71,19%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "55.5144162",
+    "lat": -20.9188523
+  }
+]

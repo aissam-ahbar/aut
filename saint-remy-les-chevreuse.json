@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1907800280",
+    "raison_sociale": "SAINT REMY CONDUITE",
+    "adresse": "17 RUE DE LA REPUBLIQUE",
+    "cp": 78470,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SAINT-REMY-LES-CHEVREUSE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.069952",
+    "lat": 48.7045947
+  }
+]

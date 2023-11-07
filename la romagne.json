@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C  WR",
+    "agrement": "E0404908630",
+    "adresse": "44   RUE NATIONALE",
+    "cp": "49740",
+    "ville": "LA ROMAGNE",
+    "tauxa1": "100,00%",
+    "tauxa2": "92,86%",
+    "tauxb": "62,69%",
+    "tauxb1": "",
+    "tauxbe": "75,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.0185067",
+    "lat": 47.0602412
+  }
+]

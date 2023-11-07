@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2097200030",
+    "raison_sociale": "IMPACT CONDUITE",
+    "adresse": "76 RUE VINCENT PLACOLY",
+    "cp": 97233,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SCHOELCHER",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-61.0880392",
+    "lat": 14.617307
+  }
+]

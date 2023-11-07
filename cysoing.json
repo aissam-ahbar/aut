@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EURL AUTO MOTO ECOLE RAVIART ALE",
+    "agrement": "E1305900650",
+    "adresse": "41 Rue Jean-Baptiste Lebas",
+    "cp": "59830",
+    "ville": "CYSOING",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "71,11%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.2145279",
+    "lat": 50.5680319
+  }
+]

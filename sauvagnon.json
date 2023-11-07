@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FAUVEL PAU",
+    "agrement": "E1106409110",
+    "adresse": "12 RUE GUYNEMER",
+    "cp": "64230",
+    "ville": "SAUVAGNON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "73,68%",
+    "tauxc1": "80,65%",
+    "tauxce": "84,62%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.3993484",
+    "lat": 43.3733807
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MAUREILHANAISE",
+    "agrement": "E1103407110",
+    "adresse": "3 rue du chateau",
+    "cp": "34370",
+    "ville": "MAUREILHAN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.119935",
+    "lat": 43.3588316
+  }
+]

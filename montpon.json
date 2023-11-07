@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BERTAUX AUTO ECOLE BERTAUX",
+    "agrement": "E1302400110",
+    "adresse": "9 RUE THIERS",
+    "cp": "24700",
+    "ville": "MONTPON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "77,24%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.1609477",
+    "lat": 45.0098555
+  }
+]

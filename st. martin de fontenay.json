@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Ecoroul Calvados",
+    "agrement": "E1601400050",
+    "adresse": "19 route d'Harcourt",
+    "cp": "14320",
+    "ville": "St. Martin de Fontenay",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.3742154",
+    "lat": 49.1162278
+  }
+]

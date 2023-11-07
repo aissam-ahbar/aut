@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "L'Ovalie auto-école",
+    "agrement": "E1103407040",
+    "adresse": "9 rue Belfort",
+    "cp": "34620",
+    "ville": "Puisserguier",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "61,54%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.0398025",
+    "lat": 43.3688723
+  }
+]

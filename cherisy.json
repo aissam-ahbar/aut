@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EASY DRIVE CHERISY",
+    "agrement": "E1502800150",
+    "adresse": "4 Rue Camélias",
+    "cp": "28500",
+    "ville": "CHERISY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.423704211437707",
+    "lat": 48.7483075
+  }
+]

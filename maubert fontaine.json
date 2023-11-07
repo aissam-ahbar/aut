@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AUDREY",
+    "agrement": "E0500802750",
+    "adresse": "ROUTE D HIRSON",
+    "cp": "8260",
+    "ville": "MAUBERT FONTAINE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.4275455",
+    "lat": 49.8694337
+  }
+]

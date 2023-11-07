@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VIRAGE PERMIS",
+    "agrement": "E1700100010",
+    "adresse": "90 rue Gombette",
+    "cp": "1330",
+    "ville": "AMBERIEUX EN DOMBES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,58%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.902916",
+    "lat": 45.997691
+  }
+]

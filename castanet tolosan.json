@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VASSEUR CASTANET",
+    "agrement": "E0203108590",
+    "adresse": "34 avenue de Toulouse",
+    "cp": "31320",
+    "ville": "CASTANET TOLOSAN",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "52,65%",
+    "tauxb1": "",
+    "tauxbe": "73,33%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.4972449",
+    "lat": 43.5180683
+  }
+]

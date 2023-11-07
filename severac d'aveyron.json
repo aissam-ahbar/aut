@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GALZY.AUTO-ECOLE.NADIA",
+    "agrement": "E1801200010",
+    "adresse": "2 AVENUE ARISTIDE BRIAND",
+    "cp": "12150",
+    "ville": "SEVERAC D'AVEYRON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "40,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.0565893",
+    "lat": 44.3261619
+  }
+]

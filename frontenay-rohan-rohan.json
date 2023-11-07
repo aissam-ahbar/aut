@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0307902950",
+    "raison_sociale": "CALANDOT ALAIN",
+    "adresse": "10 RUE DE LA LAITERIE",
+    "cp": 79270,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "FRONTENAY-ROHAN-ROHAN",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-0.5323514",
+    "lat": 46.2503449
+  }
+]

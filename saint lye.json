@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AISR",
+    "agrement": "E1401000020",
+    "adresse": "6 place de l'église",
+    "cp": "10180",
+    "ville": "SAINT LYE",
+    "tauxa1": "100,00%",
+    "tauxa2": "87,50%",
+    "tauxb": "55,81%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.0046275",
+    "lat": 48.3609494
+  }
+]

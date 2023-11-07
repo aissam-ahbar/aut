@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "permis_MAX CHANTELOUP",
+    "agrement": "E1607800360",
+    "adresse": "1 AVENUE DE POISSY",
+    "cp": "78570",
+    "ville": "CHANTELOUP-LES-VIGNES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,14%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.03211",
+    "lat": 48.975237
+  }
+]

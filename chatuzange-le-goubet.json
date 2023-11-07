@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1902600010",
+    "raison_sociale": "GAILLARD",
+    "adresse": "19 RUE DES MONTS DU MATIN",
+    "cp": 26300,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "CHATUZANGE-LE-GOUBET",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "5.0921041",
+    "lat": 45.0045273
+  }
+]

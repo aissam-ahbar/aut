@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FLASH PERMIS",
+    "agrement": "E1300100150",
+    "adresse": "15/17 rue du Bugey",
+    "cp": "1360",
+    "ville": "LOYETTES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,23%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.2152193",
+    "lat": 45.7799474
+  }
+]

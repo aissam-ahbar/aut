@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DEBRIL",
+    "agrement": "E0305907220",
+    "adresse": "8 BIS PLACE DU GENERAL DE GAULLE",
+    "cp": "59142",
+    "ville": "VILLERS-OUTREAUX",
+    "tauxa1": "",
+    "tauxa2": "86,49%",
+    "tauxb": "74,87%",
+    "tauxb1": "",
+    "tauxbe": "66,67%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.2988623",
+    "lat": 50.0324987
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ALSACE CONDUITE HOERDT",
+    "agrement": "E1006705780",
+    "adresse": "17 rue du Travail",
+    "cp": "67720",
+    "ville": "HOERDT",
+    "tauxa1": "70,59%",
+    "tauxa2": "91,52%",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "83,51%",
+    "tauxc1": "77,78%",
+    "tauxce": "83,67%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "7.7832723",
+    "lat": 48.6713363
+  }
+]

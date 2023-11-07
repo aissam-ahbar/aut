@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Le Mée Conduite",
+    "agrement": "E1807700310",
+    "adresse": "303 avenue de la Libération",
+    "cp": "77350",
+    "ville": "Le Mée sur Seine",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "70,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.6400606",
+    "lat": 48.5446511
+  }
+]

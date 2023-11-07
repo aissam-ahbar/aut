@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "M'AUTO SCHOOL",
+    "agrement": "E1606200140",
+    "adresse": "24 rue de Gaudiempré",
+    "cp": "62760",
+    "ville": "PAS-EN-ARTOIS",
+    "tauxa1": "100,00%",
+    "tauxa2": "81,82%",
+    "tauxb": "58,62%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.5006661",
+    "lat": 50.1584356
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "REMOND - PRINGY",
+    "agrement": "E1307400050",
+    "adresse": "559 route des Rutys",
+    "cp": "74370",
+    "ville": "PRINGY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,04%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.1272557",
+    "lat": 45.9439089
+  }
+]

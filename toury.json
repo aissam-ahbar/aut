@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1102803530",
+    "raison_sociale": "SUARD",
+    "adresse": "104 RUE NATIONALE",
+    "cp": 28310,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "TOURY",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "1.937032",
+    "lat": 48.195638
+  }
+]

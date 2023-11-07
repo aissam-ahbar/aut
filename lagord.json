@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GOELANDS",
+    "agrement": "E1301700040",
+    "adresse": "AVENUE DU FIEF ROSE",
+    "cp": "17140",
+    "ville": "LAGORD",
+    "tauxa1": "",
+    "tauxa2": "82,76%",
+    "tauxb": "38,51%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.1645682",
+    "lat": 46.1719015
+  }
+]

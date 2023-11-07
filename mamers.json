@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CAP CONDUITE",
+    "agrement": "E1707200080",
+    "adresse": "83 bis rue du Docteur Godard",
+    "cp": "72600",
+    "ville": "MAMERS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.3646596",
+    "lat": 48.3513571
+  }
+]

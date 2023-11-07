@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ZZ CHARLYN",
+    "agrement": "E0408916510",
+    "adresse": "58 bis grande rue",
+    "cp": "89100",
+    "ville": "SAINT MARTIN DU TERTRE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.2565936",
+    "lat": 48.2124309
+  }
+]

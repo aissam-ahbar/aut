@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "OVALIE MONTADY",
+    "agrement": "E1303400300",
+    "adresse": "Avenue des Platanes",
+    "cp": "34310",
+    "ville": "Montady",
+    "tauxa1": "",
+    "tauxa2": "83,33%",
+    "tauxb": "59,18%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.1230662",
+    "lat": 43.3337656
+  }
+]

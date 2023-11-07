@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SUCCESS CONDUITE",
+    "agrement": "E1797400120",
+    "adresse": "36 avenue de la commune de Paris",
+    "cp": "97420",
+    "ville": "LE  PORT",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,86%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "55.2925654",
+    "lat": -20.9444712
+  }
+]

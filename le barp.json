@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU BARP",
+    "agrement": "E0303310960",
+    "adresse": "3 RUE CASTOR",
+    "cp": "33114",
+    "ville": "LE BARP",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "67,37%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.7682293",
+    "lat": 44.5979454
+  }
+]

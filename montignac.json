@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "X CESSATION GRELIER AE CONDUITE",
+    "agrement": "E0202403770",
+    "adresse": "5 RUE LIBERTE",
+    "cp": "24290",
+    "ville": "MONTIGNAC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.1613946",
+    "lat": 45.0679444
+  }
+]

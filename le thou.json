@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ECF LE THOU",
+    "agrement": "E1801700100",
+    "adresse": "2 Rue du Petit Bois",
+    "cp": "17290",
+    "ville": "LE THOU",
+    "tauxa1": "100,00%",
+    "tauxa2": "50,00%",
+    "tauxb": "44,44%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "82,35%",
+    "tauxce": "90,00%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.9406509",
+    "lat": 46.097922
+  }
+]

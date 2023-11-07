@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "école de conduite Aline",
+    "agrement": "E1402200050",
+    "adresse": "place du 19 Mars 1962",
+    "cp": "22100",
+    "ville": "Trélivan",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "77,42%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.1181686",
+    "lat": 48.4335025
+  }
+]

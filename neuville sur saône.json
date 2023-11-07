@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER NEUVILLE SUR SAONE",
+    "agrement": "E1406900110",
+    "adresse": "13 rue Pierre Dugelay",
+    "cp": "69250",
+    "ville": "Neuville sur Saône",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "51,52%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8407175",
+    "lat": 45.8751837
+  }
+]

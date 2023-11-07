@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU TRIDENT",
+    "agrement": "E0301356070",
+    "adresse": "CENTRE COMMERCIAL DU TRIDENT",
+    "cp": "13310",
+    "ville": "SAINT MARTIN DE CRAU",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.813288456963685",
+    "lat": 43.64048735
+  }
+]

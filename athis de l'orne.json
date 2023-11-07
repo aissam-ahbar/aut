@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GWEN auto-école",
+    "agrement": "E1306100030",
+    "adresse": "1 Rue des écoles",
+    "cp": "61430",
+    "ville": "ATHIS DE L'ORNE",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "54,55%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.5026077",
+    "lat": 48.810142
+  }
+]

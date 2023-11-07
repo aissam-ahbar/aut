@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VICTOR HUGO",
+    "agrement": "E1406900330",
+    "adresse": "61 avenue Victor Hugo",
+    "cp": "69160",
+    "ville": "Tassin-la Demi-Lune",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "31,25%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.7830935",
+    "lat": 45.7652374
+  }
+]

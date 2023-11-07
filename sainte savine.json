@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GALLIENI",
+    "agrement": "E0201001160",
+    "adresse": "87 AVENUE GALLIENI",
+    "cp": "10300",
+    "ville": "SAINTE SAVINE",
+    "tauxa1": "",
+    "tauxa2": "89,47%",
+    "tauxb": "50,90%",
+    "tauxb1": "",
+    "tauxbe": "44,44%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.0553586",
+    "lat": 48.2939684
+  }
+]

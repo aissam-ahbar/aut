@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER EPINAY",
+    "agrement": "E0209380010",
+    "adresse": "2 AV DE LA MARNE",
+    "cp": "93800",
+    "ville": "EPINAY SUR SEINE",
+    "tauxa1": "",
+    "tauxa2": "88,24%",
+    "tauxb": "52,88%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3281464",
+    "lat": 48.9511438
+  }
+]

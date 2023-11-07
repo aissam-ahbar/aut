@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "concept2M",
+    "agrement": "E1697100060",
+    "adresse": "rue pierre et Marie curie",
+    "cp": "97118",
+    "ville": "saint françois",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "29,73%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-61.2733254",
+    "lat": 16.2543262
+  }
+]

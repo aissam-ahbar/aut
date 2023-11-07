@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FRANCE permis_CONDUITE",
+    "agrement": "E1705300050",
+    "adresse": "200 Boulevard des Ormeaux",
+    "cp": "53100",
+    "ville": "MOULAY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "45,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.6258942",
+    "lat": 48.2756465
+  }
+]

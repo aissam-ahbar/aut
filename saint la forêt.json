@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER BONNE ROUTE",
+    "agrement": "E1809500180",
+    "adresse": "90 Rue du Général De Gaulle",
+    "cp": "95320",
+    "ville": "Saint La Forêt",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,41%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.2471084",
+    "lat": 49.0150965
+  }
+]

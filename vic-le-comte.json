@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2206300120",
+    "raison_sociale": "LONGUES CONDUITE",
+    "adresse": "186 BOULEVARD DU GENERAL DE GAULLE",
+    "cp": 63270,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "VIC-LE-COMTE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.208284608152977",
+    "lat": 45.6638455
+  }
+]

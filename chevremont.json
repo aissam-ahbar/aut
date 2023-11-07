@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0209006620",
+    "raison_sociale": "EISEN SARL",
+    "adresse": "CHEMIN DU CIRCUIT",
+    "cp": 90340,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "CHEVREMONT",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "6.9087143",
+    "lat": 47.634097
+  }
+]

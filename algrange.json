@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PILOTE",
+    "agrement": "E0205707970",
+    "adresse": "06 RUE JEAN BURGER",
+    "cp": "57440",
+    "ville": "ALGRANGE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,82%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "6.0441838",
+    "lat": 49.3582599
+  }
+]

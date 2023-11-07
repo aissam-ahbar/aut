@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EUGENE",
+    "agrement": "E0306804810",
+    "adresse": "7 RUE CLEMENCEAU",
+    "cp": "68660",
+    "ville": "LIEPVRE",
+    "tauxa1": "60,00%",
+    "tauxa2": "92,56%",
+    "tauxb": "59,26%",
+    "tauxb1": "",
+    "tauxbe": "69,52%",
+    "tauxc1": "80,68%",
+    "tauxce": "82,86%",
+    "tauxd": "66,67%",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Oui",
+    "permis_CE": "Oui",
+    "permis_C1E": "Oui",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Oui",
+    "lng": "7.2825497",
+    "lat": 48.2708446
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "TURBO",
+    "agrement": "E0906503890",
+    "adresse": "Rue Victor Hugo",
+    "cp": "65320",
+    "ville": "BORDERES SUR ECHEZ",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,38%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.0477715",
+    "lat": 43.2585987
+  }
+]

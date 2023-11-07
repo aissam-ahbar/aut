@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FRED ECOLE",
+    "agrement": "E0301705260",
+    "adresse": "35 RUE DU CENTRE",
+    "cp": "17350",
+    "ville": "SAINT SAVINIEN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,69%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.6808841",
+    "lat": 45.8784885
+  }
+]

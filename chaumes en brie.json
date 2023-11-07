@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CONTACT",
+    "agrement": "E0307716680",
+    "adresse": "38 rue Foix",
+    "cp": "77390",
+    "ville": "CHAUMES EN BRIE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "67,07%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.8430032",
+    "lat": 48.6646665
+  }
+]

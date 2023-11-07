@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MANU",
+    "agrement": "E1400800030",
+    "adresse": "14 place Emile Zola",
+    "cp": "8800",
+    "ville": "Monthermé",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "53,45%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.73805",
+    "lat": 49.8880681
+  }
+]

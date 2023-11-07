@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MOTO-CONDUITE SAINT JEAN",
+    "agrement": "E0207304000",
+    "adresse": "296 AVENUE DU MONT CENIS",
+    "cp": "73300",
+    "ville": "SAINT JEAN DE MAURIENNE",
+    "tauxa1": "",
+    "tauxa2": "90,00%",
+    "tauxb": "65,25%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.3499956",
+    "lat": 45.2724407
+  }
+]

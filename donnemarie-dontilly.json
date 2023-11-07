@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0307715400",
+    "raison_sociale": "DU MONTOIS",
+    "adresse": "7 RUE MARIE CHAUBART",
+    "cp": 77520,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "DONNEMARIE-DONTILLY",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.132959",
+    "lat": 48.4775943
+  }
+]

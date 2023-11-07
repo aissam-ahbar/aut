@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0709107650",
+    "raison_sociale": "CFPSR DE SOISY",
+    "adresse": "2, DE L'OISEAU",
+    "cp": 91450,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SOISY-SUR-SEINE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Oui",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.4511699",
+    "lat": 48.649448
+  }
+]

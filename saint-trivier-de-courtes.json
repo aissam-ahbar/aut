@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0300103540",
+    "raison_sociale": "FORMUL'AIN ST TRIVIER",
+    "adresse": "19 ROUTE DE CHALON",
+    "cp": 1560,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SAINT-TRIVIER-DE-COURTES",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "5.078796",
+    "lat": 46.45983
+  }
+]

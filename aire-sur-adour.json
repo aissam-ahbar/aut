@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DE L'ADOUR",
+    "agrement": "E1204039510",
+    "adresse": "8 AVENUE DES PYRENEES",
+    "cp": "40800",
+    "ville": "AIRE-SUR-ADOUR",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "75,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.2653664",
+    "lat": 43.6999135
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PONT-PEAN",
+    "agrement": "E0903507330",
+    "adresse": "44 route de Nantes",
+    "cp": "35131",
+    "ville": "PONT-PEAN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "73,86%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.706902",
+    "lat": 48.0198203
+  }
+]

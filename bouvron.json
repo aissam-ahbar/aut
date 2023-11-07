@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BARRE / AE ABC",
+    "agrement": "E0704407400",
+    "adresse": "7 TER RUE SAINT JULIEN",
+    "cp": "44130",
+    "ville": "BOUVRON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,92%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.8465808",
+    "lat": 47.417345
+  }
+]

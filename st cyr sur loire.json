@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AVENIR auto moto",
+    "agrement": "E1503700060",
+    "adresse": "35 rue du docteur Calmette",
+    "cp": "37540",
+    "ville": "st cyr sur loire",
+    "tauxa1": "100,00%",
+    "tauxa2": "93,33%",
+    "tauxb": "75,00%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.676914476236477",
+    "lat": 47.4081912
+  }
+]

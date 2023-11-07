@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "NUGEYRE",
+    "agrement": "E0906343860",
+    "adresse": "167 Boulevard du Jeu de Paume",
+    "cp": "63270",
+    "ville": "Vic le Comte",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "75,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.2444482",
+    "lat": 45.6426597
+  }
+]
