@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "ZZZVES Euro Conduite Vesoul",
-    "agrement": "E1607000070",
-    "adresse": "16 Rue de Fleurier",
-    "cp": "70000",
-    "ville": "70000 Vesoul, France",
+    "raison_sociale": "Leucate auto-moto-école",
+    "agrement": "E1401100020",
+    "adresse": "Centre commercial Carrefour Contact",
+    "cp": "11370",
+    "ville": "Leucate",
     "tauxa1": "",
-    "tauxa2": "100,00%",
-    "tauxb": "47,37%",
+    "tauxa2": "3",
+    "tauxb": "37",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,7 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.15884",
-    "lat": 47.62018
+    "lng": "0.770290643612997",
+    "lat": 49.4799145
   }
 ]
