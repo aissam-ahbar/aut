@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "103",
-    "agrement": "E0203306740",
-    "adresse": "103 RUE NATIONALE",
+    "raison_sociale": "ECB III",
+    "agrement": "E1603300180",
+    "adresse": "68 rue nationale",
     "cp": "33240",
-    "ville": "ST ANDRE DE CUBZAC",
+    "ville": "St André de Cubzac",
     "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "55,56%",
+    "tauxa2": "100,00%",
+    "tauxb": "66,67%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -29,9 +29,8 @@
     "permis_DE": "",
     "lng": "-0.437113",
     "lat": 45.0045525
-  },
-  {
-    "raison_sociale": "DAVID FORMATION MOTO",
+  }
+]ison_sociale": "DAVID FORMATION MOTO",
     "agrement": "E0803312250",
     "adresse": "14 place du champ de foire",
     "cp": "33240",

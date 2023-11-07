@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "Stephanne autoecole lacollegiale",
-    "agrement": "E1407800270",
-    "adresse": "32 34 place de l'étape",
+    "raison_sociale": "allizees maurice cond",
+    "agrement": "E1307800160",
+    "adresse": "16 place du 8 mai 1945",
     "cp": "78200",
-    "ville": "Mantes la jolie",
-    "tauxa1": "33,33%",
-    "tauxa2": "84,21%",
-    "tauxb": "64,18%",
+    "ville": "mantes la jolie",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "48,51%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,11 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "1.7199457",
-    "lat": 48.9910906
-  }
-]: "ouest formation",
+    "lng": "1.7030606",
+    "lat": 48.9902106
+  },
+  {
+    "raison_sociale": "ouest formation",
     "agrement": "E1207814070",
     "adresse": "2 rue conrad kilian",
     "cp": "78200",

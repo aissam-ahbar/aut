@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "PASTEUR",
-    "agrement": "E0307807890",
-    "adresse": "291 RUE PASTEUR",
-    "cp": "78300",
-    "ville": "CARRIERES SOUS POISSY",
+    "raison_sociale": "Permis'sur",
+    "agrement": "E1707800130",
+    "adresse": "70/120 rue Claude Monet",
+    "cp": "78955",
+    "ville": "Carrières sous Poissy",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "64,44%",
+    "tauxb": "67,61%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.0185692",
-    "lat": 48.9402667
-  },
-  {
-    "raison_sociale": "CER CARRIERES",
+    "lng": "2.0361633",
+    "lat": 48.948465
+  }
+]ison_sociale": "CER CARRIERES",
     "agrement": "E1807800080",
     "adresse": "435 AVENUE DE L'EUROPE",
     "cp": "78955",

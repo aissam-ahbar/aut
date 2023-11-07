@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "AEGIDE",
-    "agrement": "E1706400060",
-    "adresse": "380 BD DE LA PAIX",
+    "raison_sociale": "Croix du Prince",
+    "agrement": "E1506400050",
+    "adresse": "68 rue du 14 juillet",
     "cp": "64000",
-    "ville": "PAU",
+    "ville": "Pau",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "69,01%",
+    "tauxb": "57,81%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-0.3397864",
-    "lat": 43.3164637
-  },
-  {
-    "raison_sociale": "BLERIOT Cami Salié",
+    "lng": "-0.3779786",
+    "lat": 43.2927895
+  }
+]son_sociale": "BLERIOT Cami Salié",
     "agrement": "E1806400040",
     "adresse": "75 bd du Cami Salié",
     "cp": "64000",

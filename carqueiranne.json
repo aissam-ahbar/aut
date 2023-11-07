@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "MACADAM CARQUEIRANNE",
-    "agrement": "E1408300050",
-    "adresse": "28 AVENUE JEAN JAURES",
+    "raison_sociale": "Carqueiranne conduite",
+    "agrement": "E1508315360",
+    "adresse": "impasse de la Voio",
     "cp": "83320",
-    "ville": "CARQUEIRANNE",
+    "ville": "Carqueiranne",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "100,00%",
+    "tauxb": "44,58%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,9 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.0753881",
-    "lat": 43.0938673
-  },
+    "lng": "6.0715025",
+    "lat": 43.096024
+  }
+] },
   {
     "agrement": "E1208311390",
     "raison_sociale": "AMB",

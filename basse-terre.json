@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "Phare Sarl",
-    "agrement": "E1797100130",
-    "adresse": "5 rue amédée fengarol",
+    "raison_sociale": "PEDURAND Thierry",
+    "agrement": "E1109A04220",
+    "adresse": "35 Rue Ali Tur",
     "cp": "97100",
-    "ville": "Basse-terre",
+    "ville": "BASSE-TERRE",
     "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "66,67%",
+    "tauxa2": "100,00%",
+    "tauxb": "50,00%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-61.7271392",
-    "lat": 15.9907928
-  }
-] },
+    "lng": "-61.7268163",
+    "lat": 15.9942161
+  },
   {
     "agrement": "E0809A00770",
     "raison_sociale": "CENTRE D ENSEIGNEMENT ET DE FORMATION SECURITE ROU",

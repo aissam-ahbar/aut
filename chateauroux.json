@@ -29,20 +29,20 @@
     "permis_DE": "",
     "lng": "1.6845668",
     "lat": 46.8110979
-  }
-]{
-    "raison_sociale": "ASTUCE",
-    "agrement": "E1503600010",
-    "adresse": "112 avenue de La Châtre",
+  },
+  {
+    "raison_sociale": "G.T.O 36",
+    "agrement": "E1303600030",
+    "adresse": "109 avenue de Verdun",
     "cp": "36000",
-    "ville": "CHATEAUROUX",
+    "ville": "Châteauroux",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "46,34%",
+    "tauxb": "",
     "tauxb1": "",
     "tauxbe": "",
-    "tauxc1": "",
-    "tauxce": "",
+    "tauxc1": "0,00%",
+    "tauxce": "100,00%",
     "tauxd": "",
     "label_qualite": "",
     "permis_1euro_jour": "",
@@ -58,11 +58,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "1.706801477528087",
-    "lat": 46.807582
-  },
-  {
-    "raison_sociale": "DIRECTION",
+    "lng": "1.695449410156253",
+    "lat": 46.8039155
+  }
+]"raison_sociale": "DIRECTION",
     "agrement": "E1703600020",
     "adresse": "125 AVENUE DE LA CHATRE",
     "cp": "36000",

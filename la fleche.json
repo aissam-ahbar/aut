@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "AMC FORMATION",
-    "agrement": "E1307200140",
-    "adresse": "13 rue Henri IV",
+    "raison_sociale": "FOUASSIER",
+    "agrement": "E0207203250",
+    "adresse": "4 rue de Viez",
     "cp": "72200",
-    "ville": "LA FLECHE",
-    "tauxa1": "69,23%",
-    "tauxa2": "83,61%",
-    "tauxb": "56,99%",
+    "ville": "La FLECHE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "77,22%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,8 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-0.0752393",
-    "lat": 47.7001391
+    "lng": "-0.0855591",
+    "lat": 47.7149718
+  }
+]: 47.7001391
   },
   {
     "raison_sociale": "BODIN",

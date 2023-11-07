@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "PETIT auto-école",
-    "agrement": "E0302103990",
-    "adresse": "4 rue Auguste Dubois",
+    "raison_sociale": "AD PEP 21 - CPE",
+    "agrement": "E0902104680",
+    "adresse": "rue du château",
     "cp": "21230",
-    "ville": "ARNAY LE DUC",
+    "ville": "ARNAY le DUC",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "60,00%",
+    "tauxb": "40,00%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "4.4865862",
-    "lat": 47.1316938
+    "lng": "4.4851069",
+    "lat": 47.1298348
+  }
+]8
   }
 ]

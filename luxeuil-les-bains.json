@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "LUX  EC PLUS",
-    "agrement": "E0207015500",
-    "adresse": "32 bis RUE DE GRAMMONT",
+    "raison_sociale": "ZZZ AS Conduite 70",
+    "agrement": "E1207002030",
+    "adresse": "18 rue Carnot",
     "cp": "70300",
-    "ville": "LUXEUIL-LES-BAINS",
+    "ville": "Luxeuil-lès-Bains",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "",
+    "tauxb": "90,00%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.3779177",
-    "lat": 47.8251285
-  },
-  {
-    "agrement": "E0207015500",
+    "lng": "6.3795199",
+    "lat": 47.8193162
+  }
+]    "agrement": "E0207015500",
     "raison_sociale": "E C +",
     "adresse": "32 B RUE DE GRAMMONT",
     "cp": 70300,

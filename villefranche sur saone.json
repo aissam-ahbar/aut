@@ -1,18 +1,18 @@
 [
   {
-    "raison_sociale": "ZZINNOV ET DEV VILLEFRANCHE",
-    "agrement": "I1606900010",
-    "adresse": "114 boulevard Gambetta",
+    "raison_sociale": "CORGIER FORMATION",
+    "agrement": "E1606900240",
+    "adresse": "520 rue Leon Jacquemaire",
     "cp": "69400",
-    "ville": "Villefranche sur Saone",
+    "ville": "VILLEFRANCHE SUR SAONE",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "42,86%",
+    "tauxb": "",
     "tauxb1": "",
-    "tauxbe": "",
-    "tauxc1": "",
-    "tauxce": "",
-    "tauxd": "",
+    "tauxbe": "63,16%",
+    "tauxc1": "67,68%",
+    "tauxce": "83,67%",
+    "tauxd": "100,00%",
     "label_qualite": "",
     "permis_1euro_jour": "",
     "permis_A": "",
@@ -27,10 +27,8 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "4.7151948",
-    "lat": 45.9908227
-  }
-]50237
+    "lng": "4.7435669",
+    "lat": 45.9950237
   },
   {
     "raison_sociale": "GUIDON VOLANT",

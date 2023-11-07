@@ -1,18 +1,18 @@
 [
   {
-    "raison_sociale": "ANDRE SETE",
-    "agrement": "E1503400270",
-    "adresse": "17 quai du Pavois d'or",
+    "raison_sociale": "BINIX",
+    "agrement": "E1303400180",
+    "adresse": "16 rue Robespierre",
     "cp": "34200",
-    "ville": "SETE",
+    "ville": "Sète",
     "tauxa1": "",
-    "tauxa2": "66,67%",
-    "tauxb": "40,54%",
+    "tauxa2": "",
+    "tauxb": "36,89%",
     "tauxb1": "",
-    "tauxbe": "85,71%",
-    "tauxc1": "81,25%",
-    "tauxce": "75,00%",
-    "tauxd": "100,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
     "label_qualite": "",
     "permis_1euro_jour": "",
     "permis_A": "",
@@ -27,7 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "3.6957953",
+    "lng": "3.6806227",
+    "lat": 43.4086362
+  }
+]3.6957953",
     "lat": 43.4106723
   },
   {

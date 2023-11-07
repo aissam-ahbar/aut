@@ -1,13 +1,13 @@
 [
   {
     "raison_sociale": "MANU",
-    "agrement": "E1100803110",
-    "adresse": "78 rue Pasteur",
+    "agrement": "E1400800030",
+    "adresse": "14 place Emile Zola",
     "cp": "8800",
-    "ville": "MONTHERME",
+    "ville": "Monthermé",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "33,33%",
+    "tauxb": "53,45%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,7 @@
     "permis_D": "Non",
     "permis_D1": "Non",
     "permis_DE": "Non",
-    "lng": "4.7388707",
-    "lat": 49.8851188
+    "lng": "4.73805",
+    "lat": 49.8880681
   }
 ]

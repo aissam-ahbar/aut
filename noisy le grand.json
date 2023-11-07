@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "AUTO MOTO ECOLE DE LA VARENNE",
-    "agrement": "E1009316190",
-    "adresse": "18 boulevard Foch",
+    "raison_sociale": "A-M ECOLE ARCADES CONDUITE2",
+    "agrement": "E1209380350",
+    "adresse": "4 rue Roger Cailteux",
     "cp": "93160",
-    "ville": "Noisy le Grand",
+    "ville": "NOISY LE GRAND",
     "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "66,13%",
+    "tauxa2": "92,00%",
+    "tauxb": "63,70%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,18 +27,18 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.5299306",
-    "lat": 48.8458345
+    "lng": "2.568772",
+    "lat": 48.828662
   },
   {
-    "raison_sociale": "CER DES RICHARDETS",
-    "agrement": "E1009316180",
-    "adresse": "1, place du Combat",
+    "raison_sociale": "ARCADES CONDUITE",
+    "agrement": "E1109316210",
+    "adresse": "32, clos des Cascades",
     "cp": "93160",
-    "ville": "Noisy le Grand",
+    "ville": "NOISY LE GRAND",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "60,94%",
+    "tauxb": "58,82%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -58,10 +58,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.5631124",
-    "lat": 48.8299991
-  }
-] },
+    "lng": "2.547979",
+    "lat": 48.841713
+  },
   {
     "raison_sociale": "MEDERIC",
     "agrement": "E1509332160",

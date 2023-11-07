@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "LDG LE DIMNA",
-    "agrement": "E1105606950",
-    "adresse": "1 rue Max Jacob",
+    "raison_sociale": "VERO conduite Locminé",
+    "agrement": "E0905606500",
+    "adresse": "1 bis rue Annick Pizigot",
     "cp": "56500",
-    "ville": "LOCMINE",
+    "ville": "Locminé",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "62,06%",
+    "tauxb": "68,60%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-2.837853",
-    "lat": 47.8854352
-  },
-  {
-    "agrement": "E1705600120",
+    "lng": "-2.8349419",
+    "lat": 47.8877066
+  }
+]E1705600120",
     "raison_sociale": "FERRE",
     "adresse": "1 RUE DE VERDUN",
     "cp": 56500,

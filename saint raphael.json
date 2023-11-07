@@ -1,14 +1,14 @@
 [
   {
-    "raison_sociale": "Auto-école ANAIS",
-    "agrement": "E1108311040",
-    "adresse": "408 avenue de Valescure",
+    "raison_sociale": "SAINT RAPH Conduite",
+    "agrement": "E1408300060",
+    "adresse": "197 rue Pierrugues",
     "cp": "83700",
-    "ville": "SAINT RAPHAEL",
-    "tauxa1": "0,00%",
-    "tauxa2": "100,00%",
-    "tauxb": "56,61%",
-    "tauxb1": "100,00%",
+    "ville": "Saint Raphaël",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,06%",
+    "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
     "tauxce": "",
@@ -27,8 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.7690098",
-    "lat": 43.4263178
+    "lng": "6.7714259",
+    "lat": 43.4261359
+  }
+]at": 43.4263178
   },
   {
     "raison_sociale": "Cerceron",

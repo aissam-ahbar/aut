@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "ACTION JEUNES LES 4 CHEMINS ASSO",
-    "agrement": "I1409200010",
-    "adresse": "378 RUE GABRIEL PERI",
+    "raison_sociale": "CFR COLOMBES GARE",
+    "agrement": "E1409200210",
+    "adresse": "3,rue du 8 mai 1945",
     "cp": "92700",
-    "ville": "COLOMBES",
-    "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "38,67%",
+    "ville": "colombes",
+    "tauxa1": "100,00%",
+    "tauxa2": "80,00%",
+    "tauxb": "58,11%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,9 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.2334457",
-    "lat": 48.9162076
-  },
+    "lng": "2.2587911",
+    "lat": 48.9221713
+  }
+]},
   {
     "raison_sociale": "AE STALINGRAD",
     "agrement": "E1109259370",

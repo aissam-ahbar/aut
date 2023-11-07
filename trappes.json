@@ -1,17 +1,17 @@
 [
   {
-    "raison_sociale": "Beltoise évolution",
-    "agrement": "E1307800230",
-    "adresse": "avenue des frères Lumière",
+    "raison_sociale": "sdis auto ecole des pompiers",
+    "agrement": "E1307800120",
+    "adresse": "12 rue roger hennequin",
     "cp": "78190",
-    "ville": "Trappes",
-    "tauxa1": "100,00%",
-    "tauxa2": "75,00%",
-    "tauxb": "50,00%",
+    "ville": "trappes",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
     "tauxb1": "",
     "tauxbe": "",
-    "tauxc1": "",
-    "tauxce": "",
+    "tauxc1": "91,67%",
+    "tauxce": "100,00%",
     "tauxd": "",
     "label_qualite": "",
     "permis_1euro_jour": "",
@@ -27,9 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "1.9814412",
-    "lat": 48.7566151
-  },
+    "lng": "1.9981603",
+    "lat": 48.7694683
+  }
+],
   {
     "raison_sociale": "Recrutement formation transport",
     "agrement": "E1307800240",

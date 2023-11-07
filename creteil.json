@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "AE INRIS CRETEIL LE CHATEAU",
-    "agrement": "E1709400040",
-    "adresse": "20 RUE DES MECHES",
+    "raison_sociale": "Abripoints Permis",
+    "agrement": "E1209440820",
+    "adresse": "2/3 place Mendes France",
     "cp": "94000",
-    "ville": "CRETEIL",
+    "ville": "Créteil",
     "tauxa1": "",
-    "tauxa2": "81,25%",
-    "tauxb": "59,31%",
+    "tauxa2": "92,31%",
+    "tauxb": "61,08%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,9 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.4582698",
-    "lat": 48.7926136
-  },
+    "lng": "2.455302",
+    "lat": 48.7759974
+  }
+] },
   {
     "raison_sociale": "DE L'EGLISE",
     "agrement": "E1709400130",

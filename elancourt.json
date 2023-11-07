@@ -1,14 +1,14 @@
 [
   {
-    "raison_sociale": "Auto école de la Clef",
-    "agrement": "E1607800330",
-    "adresse": "12 rue d'Athènes",
+    "raison_sociale": "DE LA CLEF",
+    "agrement": "E1807800070",
+    "adresse": "12 RUE D'ATHENES",
     "cp": "78990",
-    "ville": "Elancourt",
+    "ville": "ELANCOURT",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "41,94%",
-    "tauxb1": "0,00%",
+    "tauxb": "48,98%",
+    "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
     "tauxce": "",
@@ -29,8 +29,9 @@
     "permis_DE": "",
     "lng": "1.9721138",
     "lat": 48.7927789
-  }
-]ciale": "Auto moto école de la Carmagnole",
+  },
+  {
+    "raison_sociale": "Auto moto école de la Carmagnole",
     "agrement": "E0707813100",
     "adresse": "2 MAIL DE LA CARMAGNOLE",
     "cp": "78990",

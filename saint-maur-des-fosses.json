@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "CER FOCH",
-    "agrement": "E1209440710",
-    "adresse": "34 avenue Foch",
+    "raison_sociale": "des 2 lions auto-école",
+    "agrement": "E1409400220",
+    "adresse": "55 Boulevard de Créteil",
     "cp": "94100",
-    "ville": "SAINT-MAUR-DES-FOSSES",
+    "ville": "Saint-Maur-des-Fossés",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "",
+    "tauxb": "61,11%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.4894339",
-    "lat": 48.8031753
-  },
-  {
-    "raison_sociale": "KAYA",
+    "lng": "2.4806453",
+    "lat": 48.7982623
+  }
+],
     "agrement": "E1209440860",
     "adresse": "3 avenue de Curti",
     "cp": "94100",

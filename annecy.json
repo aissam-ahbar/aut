@@ -1,15 +1,15 @@
 [
   {
-    "raison_sociale": "ARAVIS - ANNECY",
-    "agrement": "E1207497900",
-    "adresse": "9 bis rue de la Paix",
+    "raison_sociale": "SEMNOZ - ANNECY",
+    "agrement": "E1407400020",
+    "adresse": "31 faubourg des Balmettes",
     "cp": "74000",
-    "ville": "ANNECY",
-    "tauxa1": "100,00%",
-    "tauxa2": "88,24%",
-    "tauxb": "53,49%",
+    "ville": "Annecy",
+    "tauxa1": "",
+    "tauxa2": "96,43%",
+    "tauxb": "66,67%",
     "tauxb1": "",
-    "tauxbe": "92,31%",
+    "tauxbe": "",
     "tauxc1": "",
     "tauxce": "",
     "tauxd": "",
@@ -27,8 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.1306742",
-    "lat": 45.9046522
+    "lng": "6.1237239",
+    "lat": 45.8902882
+  }
+]22
   },
   {
     "raison_sociale": "FAIR PLAY - ANNECY",

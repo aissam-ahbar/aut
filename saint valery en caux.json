@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "6AUTO ECOLE DU LYCEE",
-    "agrement": "E1307600050",
-    "adresse": "76 ROUTE DU HAVRE",
+    "raison_sociale": "du Lycée",
+    "agrement": "E1707600210",
+    "adresse": "76 route du Havre",
     "cp": "76460",
-    "ville": "SAINT VALERY EN CAUX",
+    "ville": "Saint Valéry en Caux",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "50,00%",
+    "tauxb": "48,44%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -29,5 +29,7 @@
     "permis_DE": "",
     "lng": "0.704044",
     "lat": 49.8624926
+  }
+]4926
   }
 ]

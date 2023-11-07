@@ -1,16 +1,16 @@
 [
   {
-    "raison_sociale": "Clic Conduite l'isle d'Espagnac",
-    "agrement": "E1601600010",
-    "adresse": "196 avenue de la république",
+    "raison_sociale": "SDIS",
+    "agrement": "E1301600030",
+    "adresse": "43 rue CHABERNAUD",
     "cp": "16340",
-    "ville": "L'Isle d'Espagnac",
+    "ville": "L'ISLE D'ESPAGNAC",
     "tauxa1": "",
-    "tauxa2": "100,00%",
-    "tauxb": "77,78%",
+    "tauxa2": "",
+    "tauxb": "",
     "tauxb1": "",
-    "tauxbe": "",
-    "tauxc1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "95,83%",
     "tauxce": "",
     "tauxd": "",
     "label_qualite": "",
@@ -27,7 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "0.2016879",
+    "lng": "0.1848323",
+    "lat": 45.6588085
+  }
+].2016879",
     "lat": 45.6652823
   }
 ]

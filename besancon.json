@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "BE  MARULAZ",
-    "agrement": "E1502500070",
-    "adresse": "5 rue Marulaz",
+    "raison_sociale": "BE auto-école TABOURNOT Palente",
+    "agrement": "E1202506420",
+    "adresse": "6 rue des courtils",
     "cp": "25000",
-    "ville": "BESANCON",
-    "tauxa1": "100,00%",
-    "tauxa2": "85,71%",
-    "tauxb": "59,42%",
+    "ville": "Besançon",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,59%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "6.017966",
-    "lat": 47.239447
-  },
-  {
-    "raison_sociale": "BE AE ACCES PERMIS",
+    "lng": "6.0458349",
+    "lat": 47.264461
+  }
+]_sociale": "BE AE ACCES PERMIS",
     "agrement": "E1102506320",
     "adresse": "7 RUE DU LYCEE",
     "cp": "25000",

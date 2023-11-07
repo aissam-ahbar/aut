@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "CASTELET",
-    "agrement": "E0307714770",
-    "adresse": "78 SQUARE RONSARD",
+    "raison_sociale": "Le Mée Conduite",
+    "agrement": "E1807700310",
+    "adresse": "303 avenue de la Libération",
     "cp": "77350",
-    "ville": "LE MEE SUR SEINE",
+    "ville": "Le Mée sur Seine",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "62,99%",
+    "tauxb": "70,00%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.6256308",
-    "lat": 48.5434219
-  },
-  {
-    "raison_sociale": "LE MEE CONDUITE",
+    "lng": "2.6400606",
+    "lat": 48.5446511
+  }
+]ale": "LE MEE CONDUITE",
     "agrement": "E1407700200",
     "adresse": "303 avenue de la Libération",
     "cp": "77350",

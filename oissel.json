@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "2ROUVRAY",
-    "agrement": "E0207605850",
-    "adresse": "41 RUE JEAN JACQUES ROUSSEAU",
+    "raison_sociale": "La Bonne Route",
+    "agrement": "E1707600060",
+    "adresse": "14 place de la republique",
     "cp": "76350",
-    "ville": "OISSEL",
+    "ville": "Oissel",
     "tauxa1": "",
-    "tauxa2": "100,00%",
-    "tauxb": "48,61%",
+    "tauxa2": "",
+    "tauxb": "71,15%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,8 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "1.0953158",
-    "lat": 49.3440646
+    "lng": "1.0944716",
+    "lat": 49.3398982
   }
+] }
 ]

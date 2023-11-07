@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "Auto école Karine",
-    "agrement": "E0701001840",
-    "adresse": "32 avenue Pierre Brossolette",
+    "raison_sociale": "BARDIN",
+    "agrement": "E0201000280",
+    "adresse": "14 RUE LOUIS PASTEUR",
     "cp": "10100",
-    "ville": "Romilly sur Seine",
+    "ville": "ROMILLY SUR SEINE",
     "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "57,14%",
+    "tauxa2": "75,00%",
+    "tauxb": "44,34%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,8 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "3.7257803",
-    "lat": 48.5159757
+    "lng": "3.7290253",
+    "lat": 48.5175289
+  }
+].5159757
   },
   {
     "raison_sociale": "LA ROMILLONNE",

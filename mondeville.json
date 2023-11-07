@@ -1,18 +1,18 @@
 [
   {
-    "raison_sociale": "ECCAM NOUVELLE ECOLE DE CONDUITE",
-    "agrement": "E0201410280",
-    "adresse": "83, ROUTE DE PARIS",
+    "raison_sociale": "PromotransFPC",
+    "agrement": "E1501400090",
+    "adresse": "rue Niepce",
     "cp": "14120",
-    "ville": "MONDEVILLE",
+    "ville": "Mondeville",
     "tauxa1": "",
-    "tauxa2": "93,02%",
-    "tauxb": "49,61%",
+    "tauxa2": "",
+    "tauxb": "",
     "tauxb1": "",
     "tauxbe": "",
-    "tauxc1": "",
-    "tauxce": "",
-    "tauxd": "",
+    "tauxc1": "70,45%",
+    "tauxce": "81,63%",
+    "tauxd": "44,83%",
     "label_qualite": "",
     "permis_1euro_jour": "",
     "permis_A": "",
@@ -27,8 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-0.3082752",
-    "lat": 49.164985
+    "lng": "-0.3081465",
+    "lat": 49.1579606
+  }
+]at": 49.164985
   },
   {
     "raison_sociale": "SARL CAMPUS FORMATION",

@@ -1,15 +1,15 @@
 [
   {
-    "raison_sociale": "C - 2000",
-    "agrement": "E0306001460",
-    "adresse": "30 RUE D AUSTERLITZ",
+    "raison_sociale": "C - ECF COMPIEGNE",
+    "agrement": "E1006004750",
+    "adresse": "11/13 rue Jeanne d'Arc",
     "cp": "60200",
-    "ville": "COMPIEGNE",
+    "ville": "Compiègne",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "63,11%",
+    "tauxb": "90,00%",
     "tauxb1": "",
-    "tauxbe": "",
+    "tauxbe": "0,00%",
     "tauxc1": "",
     "tauxce": "",
     "tauxd": "",
@@ -27,18 +27,18 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.822488",
-    "lat": 49.4164934
+    "lng": "2.8228715",
+    "lat": 49.4179677
   },
   {
-    "raison_sociale": "C - CADET ECOLE DE CONDUITE",
-    "agrement": "E0506004250",
-    "adresse": "08,RUE DE PARIS",
+    "raison_sociale": "C.permis_PAS CHER",
+    "agrement": "E1606000130",
+    "adresse": "2 Ter rue de Bouvines",
     "cp": "60200",
-    "ville": "COMPIEGNE",
-    "tauxa1": "100,00%",
-    "tauxa2": "88,52%",
-    "tauxb": "69,35%",
+    "ville": "Compiègne",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "48,60%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -58,10 +58,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.8220244",
-    "lat": 49.4142027
-  },
-  {
+    "lng": "2.8223033",
+    "lat": 49.4166598
+  }
+]
     "raison_sociale": "C - DELABARRE FORMATION SARL",
     "agrement": "E0406018500",
     "adresse": "29 RUE DES DOMELIERS",

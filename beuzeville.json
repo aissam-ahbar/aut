@@ -1,15 +1,15 @@
 [
   {
-    "raison_sociale": "5 L'AUTO-ÉCOLE BEUZEVILLE",
-    "agrement": "E1402700050",
-    "adresse": "20 Place du Général Leclerc",
+    "raison_sociale": "5 JUIN",
+    "agrement": "E0202703710",
+    "adresse": "199 RUE CONSTANT FOUCHE",
     "cp": "27210",
-    "ville": "Beuzeville",
+    "ville": "BEUZEVILLE",
     "tauxa1": "",
-    "tauxa2": "100,00%",
-    "tauxb": "61,87%",
+    "tauxa2": "",
+    "tauxb": "52,46%",
     "tauxb1": "",
-    "tauxbe": "",
+    "tauxbe": "85,71%",
     "tauxc1": "",
     "tauxce": "",
     "tauxd": "",
@@ -27,7 +27,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "0.3439994",
-    "lat": 49.3447026
+    "lng": "0.3420093",
+    "lat": 49.3454515
+  }
+]    "lat": 49.3447026
   }
 ]

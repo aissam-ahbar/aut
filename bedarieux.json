@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "FLAC BEDARIEUX",
-    "agrement": "E1003406840",
-    "adresse": "69 RUE ST ALEXANDRE",
+    "raison_sociale": "Les trois chemins",
+    "agrement": "E1203407210",
+    "adresse": "12 rue saint Louis",
     "cp": "34600",
-    "ville": "BEDARIEUX",
+    "ville": "Bédarieux",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "52,33%",
+    "tauxb": "59,26%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "3.1592644",
-    "lat": 43.6154273
-  },
-  {
+    "lng": "3.1562592",
+    "lat": 43.6162268
+  }
+]
     "agrement": "E1603400010",
     "raison_sociale": "DE L'ORB",
     "adresse": "24 BOULEVARD JEAN MOULIN",

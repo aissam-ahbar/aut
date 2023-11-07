@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "AE CER JURANVILLE CER MEHUN",
-    "agrement": "E0801801910",
-    "adresse": "190 RUE JEANNE D'ARC",
+    "raison_sociale": "Liberté",
+    "agrement": "E1501800060",
+    "adresse": "177 rue Jeanne d'Arc",
     "cp": "18500",
-    "ville": "MEHUN-SUR-YEVRE",
+    "ville": "Mehun-Sur-Yèvre",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "",
+    "tauxb": "42,99%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -29,6 +29,8 @@
     "permis_DE": "",
     "lng": "2.218705",
     "lat": 47.1449973
+  }
+]449973
   },
   {
     "agrement": "E0801801910",

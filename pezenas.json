@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "FEU VERT PZS",
-    "agrement": "E0203400690",
-    "adresse": "24 AVENUE ARISTIDE BRIAND",
+    "raison_sociale": "LA CONDUITE PERMISE",
+    "agrement": "E1403400010",
+    "adresse": "9 place Ledru Rollin",
     "cp": "34120",
-    "ville": "PEZENAS",
+    "ville": "Pézenas",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "",
+    "tauxb": "52,27%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "3.4258056",
-    "lat": 43.457944
-  },
-  {
-    "raison_sociale": "TAURINES",
+    "lng": "3.4206705",
+    "lat": 43.4612722
+  }
+]aison_sociale": "TAURINES",
     "agrement": "E0203402420",
     "adresse": "30 AV ARISTIDE BRIAND",
     "cp": "34120",

@@ -1,15 +1,15 @@
 [
   {
-    "raison_sociale": "LATOUCHE",
-    "agrement": "E1809500210",
-    "adresse": "2 Rue Louis Blanc",
+    "raison_sociale": "BEAUMONT",
+    "agrement": "E1709500070",
+    "adresse": "19 Rue Nationale",
     "cp": "95260",
-    "ville": "Beaumont sur Oise",
-    "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "59,09%",
+    "ville": "beaumont sur Oise",
+    "tauxa1": "100,00%",
+    "tauxa2": "96,30%",
+    "tauxb": "71,09%",
     "tauxb1": "",
-    "tauxbe": "",
+    "tauxbe": "100,00%",
     "tauxc1": "",
     "tauxce": "",
     "tauxd": "",
@@ -27,10 +27,8 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "2.286252",
-    "lat": 49.1411327
-  }
-]t": 49.1437497
+    "lng": "2.2847993",
+    "lat": 49.1437497
   }
 ]ociale": "OPEN TOP",
     "agrement": "E1609500420",

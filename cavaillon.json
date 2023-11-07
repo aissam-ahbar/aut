@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "l'Etoile",
-    "agrement": "E1308400050",
-    "adresse": "45 avenue Abel Sarnette",
+    "raison_sociale": "conduite academy",
+    "agrement": "E1708400130",
+    "adresse": "188 avenue de Verdun",
     "cp": "84300",
-    "ville": "cavaillon",
+    "ville": "Cavaillon",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "49,54%",
+    "tauxb": "49,04%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "5.0425374",
-    "lat": 43.8373864
+    "lng": "5.0402986",
+    "lat": 43.8326843
   }
-]  }
 ]0408004",
     "lat": 43.8366543
   },

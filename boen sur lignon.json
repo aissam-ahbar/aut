@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "ALLIANCE SARL ECOLE DE CONDUITE",
-    "agrement": "E0204200630",
-    "adresse": "20 RUE DE LYON",
+    "raison_sociale": "L'ASTREE AE",
+    "agrement": "E1304200140",
+    "adresse": "rue Arquillère",
     "cp": "42130",
-    "ville": "BOEN SUR LIGNON",
+    "ville": "Boën sur Lignon",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "78,95%",
+    "tauxb": "64,29%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,9 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "4.00666",
-    "lat": 45.7418489
+    "lng": "4.0121145",
+    "lat": 45.7433851
+  }
+]45.7418489
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-    "raison_sociale": "ABBAYE",
-    "agrement": "E1607600130",
-    "adresse": "38 Rue Félix Faure",
+    "raison_sociale": "SARL Compagnie des Permis",
+    "agrement": "E1307600020",
+    "adresse": "8 rue Van Gogh",
     "cp": "76290",
-    "ville": "Montivilliers",
+    "ville": "MONTIVILLIERS",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "56,42%",
+    "tauxb": "",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
-    "tauxce": "",
+    "tauxce": "50,00%",
     "tauxd": "",
     "label_qualite": "",
     "permis_1euro_jour": "",
@@ -27,11 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "0.1940429",
-    "lat": 49.5457161
-  },
-  {
-    "raison_sociale": "Auto école Saint Vincent 3",
+    "lng": "0.1663227",
+    "lat": 49.5539757
+  }
+]n_sociale": "Auto école Saint Vincent 3",
     "agrement": "E1707600280",
     "adresse": "2-4 Rue Médéric Deschamps",
     "cp": "76290",

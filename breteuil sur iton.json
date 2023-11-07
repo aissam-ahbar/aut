@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "6 AUTO-ÉCOLE SANDRINE",
-    "agrement": "E1502700020",
-    "adresse": "136 Place Laffitte",
+    "raison_sociale": "SECUROUTEXPERT Breteuil",
+    "agrement": "E1802700140",
+    "adresse": "136 place Laffitte",
     "cp": "27160",
-    "ville": "Breteuil Sur Iton",
+    "ville": "BRETEUIL SUR ITON",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "67,69%",
+    "tauxb": "50,00%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -30,4 +30,4 @@
     "lng": "0.9145548",
     "lat": 48.8360288
   }
-]]
+]

@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "LE MISTRAL PAULHAN",
-    "agrement": "E1303400270",
-    "adresse": "74 cours national",
+    "raison_sociale": "MICHEL",
+    "agrement": "E0203403940",
+    "adresse": "6 RUE CHEMIN DES DAMES",
     "cp": "34230",
-    "ville": "Paulhan",
+    "ville": "PAULHAN",
     "tauxa1": "",
-    "tauxa2": "50,00%",
-    "tauxb": "62,79%",
+    "tauxa2": "",
+    "tauxb": "58,49%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,11 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "3.4592061",
-    "lat": 43.5403495
-  }
-]on_sociale": "ANDRE PZS ECR",
+    "lng": "3.4581841",
+    "lat": 43.5384962
+  },
+  {
+    "raison_sociale": "ANDRE PZS ECR",
     "agrement": "E0703406560",
     "adresse": "276 Rue de la Colline",
     "cp": "34230",

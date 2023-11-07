@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "CER NEUVILLE SUR SAONE",
-    "agrement": "E1406900110",
-    "adresse": "13 rue Pierre Dugelay",
-    "cp": "69250",
-    "ville": "Neuville sur Saône",
+    "raison_sociale": "Leucate auto-moto-école",
+    "agrement": "E1401100020",
+    "adresse": "Centre commercial Carrefour Contact",
+    "cp": " Malagaïto Sud",
+    "ville": "11370",
     "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "51,52%",
+    "tauxa2": "3",
+    "tauxb": "37",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,7 +27,7 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "4.8407175",
-    "lat": 45.8751837
+    "lng": "0.770290643612997",
+    "lat": 49.4799145
   }
 ]

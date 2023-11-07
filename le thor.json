@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "Bertrand",
-    "agrement": "E1108407050",
-    "adresse": "19 cours Victor Hugo",
+    "raison_sociale": "LA PYRAMIDE le thor",
+    "agrement": "E0208404670",
+    "adresse": "197 COURS GAMBETTA",
     "cp": "84250",
-    "ville": "Le Thor",
-    "tauxa1": "",
-    "tauxa2": "",
-    "tauxb": "55,30%",
+    "ville": "LE THOR",
+    "tauxa1": "100,00%",
+    "tauxa2": "92,31%",
+    "tauxb": "57,39%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,9 +27,7 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "4.9971407",
-    "lat": 43.9274093
-  }
-]lat": 43.9279505
+    "lng": "4.9940723",
+    "lat": 43.9279505
   }
 ]

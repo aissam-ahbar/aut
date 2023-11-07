@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "Manhattan Prestige",
-    "agrement": "E1797100110",
-    "adresse": "rue paul lacavé",
+    "raison_sociale": "École de Conduite de Bergevin",
+    "agrement": "E1697100010",
+    "adresse": "13, résidence Ciboneye",
     "cp": "97110",
-    "ville": "POINTE-A-PITRE",
+    "ville": "Pointe-à-Pitre",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "",
+    "tauxb": "43,48%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,12 +27,10 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-61.5326937",
-    "lat": 16.243445
-  },
-  {
-    "agrement": "E1797100110",
-    "raison_sociale": "MANHATTAN PRESTIGE",
+    "lng": "-61.54351085415098",
+    "lat": 16.24685295
+  }
+]    "raison_sociale": "MANHATTAN PRESTIGE",
     "adresse": "RUE PAUL LACAVE",
     "cp": 97110,
     "tauxa1": "",

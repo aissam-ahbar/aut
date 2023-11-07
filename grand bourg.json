@@ -1,13 +1,13 @@
 [
   {
-    "raison_sociale": "SEYTOR Lucie",
-    "agrement": "E1597100050",
-    "adresse": "",
-    "cp": "",
-    "ville": "Grand Bourg",
+    "raison_sociale": "BESRY",
+    "agrement": "E0409A00120",
+    "adresse": "18 RUE COMMANDANT MORTENOL      MARIE GALANTE",
+    "cp": "97112",
+    "ville": "GRAND BOURG",
     "tauxa1": "",
     "tauxa2": "",
-    "tauxb": "46,15%",
+    "tauxb": "63,64%",
     "tauxb1": "",
     "tauxbe": "",
     "tauxc1": "",
@@ -27,10 +27,7 @@
     "permis_D": "",
     "permis_D1": "",
     "permis_DE": "",
-    "lng": "-61.3146797",
-    "lat": 15.8836417
-  }
-] "-61.3148269",
+    "lng": "-61.3148269",
     "lat": 15.8827162
   }
 ]
