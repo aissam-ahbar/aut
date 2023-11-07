@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ROUSSET",
+    "agrement": "E0201102140",
+    "adresse": "23 RUE ELIE SERMET",
+    "cp": "11260",
+    "ville": "ESPERAZA",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,72%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.2240999",
+    "lat": 42.9343857
+  }
+]

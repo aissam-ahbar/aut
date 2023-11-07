@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AUTO-ACADEMY",
+    "agrement": "E1703400120",
+    "adresse": "520 avenue St Sauveur",
+    "cp": "34980",
+    "ville": "SAINT CLEMENT DE RIVIERE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "39,53%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.8331267",
+    "lat": 43.7110743
+  }
+]

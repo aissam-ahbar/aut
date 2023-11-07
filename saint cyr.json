@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Major auto ecole St Cyr",
+    "agrement": "E1207813890",
+    "adresse": "7 rue Marceau",
+    "cp": "78210",
+    "ville": "Saint Cyr",
+    "tauxa1": "",
+    "tauxa2": "87,50%",
+    "tauxb": "55,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.0617042",
+    "lat": 48.8031622
+  }
+]

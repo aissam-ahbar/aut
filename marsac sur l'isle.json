@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "RABIANT AUTO ECOLE DE MARSAC",
+    "agrement": "E1402400040",
+    "adresse": "8 ROUTE DE BEAULIEU",
+    "cp": "24430",
+    "ville": "MARSAC SUR L'ISLE",
+    "tauxa1": "",
+    "tauxa2": "96,97%",
+    "tauxb": "78,05%",
+    "tauxb1": "",
+    "tauxbe": "85,71%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.6610356",
+    "lat": 45.1816749
+  }
+]

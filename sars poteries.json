@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MAXI PERMIS",
+    "agrement": "E1705900450",
+    "adresse": "118 RUE JEAN JAURES",
+    "cp": "59216",
+    "ville": "SARS POTERIES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "100,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.0264886",
+    "lat": 50.1660038
+  }
+]

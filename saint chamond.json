@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LIBERATION EC ST CHAMOND 2",
+    "agrement": "E0904203510",
+    "adresse": "19 PLACE SAINT-PIERRE",
+    "cp": "42400",
+    "ville": "SAINT CHAMOND",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "51,16%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.5123865",
+    "lat": 45.4782028
+  }
+]

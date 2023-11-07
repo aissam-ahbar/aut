@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "COMPAGNIE DES PERMIS",
+    "agrement": "E0205004230",
+    "adresse": "20 RUE DE MORTAIN",
+    "cp": "50150",
+    "ville": "SOURDEVAL",
+    "tauxa1": "50,00%",
+    "tauxa2": "87,10%",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "80,77%",
+    "tauxce": "90,00%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.9198066",
+    "lat": 48.7224934
+  }
+]

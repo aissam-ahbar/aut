@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VIRY",
+    "agrement": "E1007497720",
+    "adresse": "17, PLACE GERARD BOCHET",
+    "cp": "74580",
+    "ville": "VIRY",
+    "tauxa1": "50,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "67,39%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.0372896",
+    "lat": 46.1183762
+  }
+]

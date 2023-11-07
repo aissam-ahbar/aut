@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "1 AUTO-ECOLE DE CHARLEVAL",
+    "agrement": "E0202701790",
+    "adresse": "53 GRANDE RUE",
+    "cp": "27380",
+    "ville": "CHARLEVAL",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "77,14%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.3868495",
+    "lat": 49.3704652
+  }
+]

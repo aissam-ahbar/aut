@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "NCY VAUBAN FORMATIONS",
+    "agrement": "E1405400080",
+    "adresse": "19 B RUE ROBERT SCHUMAN",
+    "cp": "54850",
+    "ville": "MESSEIN",
+    "tauxa1": "100,00%",
+    "tauxa2": "77,78%",
+    "tauxb": "70,00%",
+    "tauxb1": "",
+    "tauxbe": "60,00%",
+    "tauxc1": "70,00%",
+    "tauxce": "100,00%",
+    "tauxd": "60,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.1695412",
+    "lat": 48.6097875
+  }
+]

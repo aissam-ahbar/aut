@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ACES",
+    "agrement": "E1709500020",
+    "adresse": "3-5 RUE DE LA FORGE",
+    "cp": "95320",
+    "ville": "ST LEU LA FORET",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,54%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.2452188",
+    "lat": 49.0144741
+  }
+]

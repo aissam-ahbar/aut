@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "OLIVIER",
+    "agrement": "E0307903110",
+    "adresse": "3 IMPASSE DES ACACIAS",
+    "cp": "79360",
+    "ville": "BEAUVOIR SUR NIORT",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "70,65%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.4725376",
+    "lat": 46.1842958
+  }
+]

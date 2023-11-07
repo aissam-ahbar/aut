@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LAURENT SALLES-D'ANG.",
+    "agrement": "E0901609350",
+    "adresse": "25 RUE DE LA GRANDE CHAMPAGNE",
+    "cp": "16130",
+    "ville": "SALLES D'ANGLES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "0,00%",
+    "tauxb1": "",
+    "tauxbe": "50,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.3298083",
+    "lat": 45.6255367
+  }
+]

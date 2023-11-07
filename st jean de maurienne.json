@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DE SAVOIE",
+    "agrement": "E1007304720",
+    "adresse": "314 RUE DE LA REPUBLIQUE",
+    "cp": "73300",
+    "ville": "ST JEAN DE MAURIENNE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "64,71%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.3450976",
+    "lat": 45.2766768
+  }
+]

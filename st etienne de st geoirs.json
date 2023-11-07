@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BIEVRE",
+    "agrement": "E0203805960",
+    "adresse": "60 GRANDE RUE OCTAVE CHENAVAS",
+    "cp": "38590",
+    "ville": "ST ETIENNE DE ST GEOIRS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,52%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.345749",
+    "lat": 45.338789
+  }
+]

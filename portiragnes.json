@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ACCEL'R PORT",
+    "agrement": "E1603400220",
+    "adresse": "3 RUE DE LA LIBERATION",
+    "cp": "34420",
+    "ville": "PORTIRAGNES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "40,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.3347087",
+    "lat": 43.3040971
+  }
+]

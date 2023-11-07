@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "STREET PASSION",
+    "agrement": "E1003903120",
+    "adresse": "35 rue de Strasbourg",
+    "cp": "39330",
+    "ville": "MOUCHARD",
+    "tauxa1": "100,00%",
+    "tauxa2": "86,36%",
+    "tauxb": "61,35%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.797301",
+    "lat": 46.974593
+  }
+]

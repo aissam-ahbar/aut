@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ZZCER MONTS D OR",
+    "agrement": "E0206908150",
+    "adresse": "53 CHEMIN DE MAINTENUE",
+    "cp": "69650",
+    "ville": "SAINT GERMAIN AU MONT D OR",
+    "tauxa1": "50,00%",
+    "tauxa2": "83,64%",
+    "tauxb": "38,46%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7997697",
+    "lat": 45.8899551
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SARL Format.Conduite",
+    "agrement": "E1305300040",
+    "adresse": "4 rue de Terre Rouge",
+    "cp": "53200",
+    "ville": "Azé",
+    "tauxa1": "100,00%",
+    "tauxa2": "90,70%",
+    "tauxb": "65,17%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.6849186",
+    "lat": 47.8285775
+  }
+]

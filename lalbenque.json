@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FTGR",
+    "agrement": "E0804611610",
+    "adresse": "ZA DE LISSAURE",
+    "cp": "46230",
+    "ville": "LALBENQUE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "94,74%",
+    "tauxc1": "86,67%",
+    "tauxce": "96,97%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5309237",
+    "lat": 44.3359976
+  }
+]

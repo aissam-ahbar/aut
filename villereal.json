@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0904703530",
+    "raison_sociale": "ECOLE  DE CONDUITE PAUBERT",
+    "adresse": "29 RUE ST ROCH",
+    "cp": 47210,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "VILLEREAL",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.7436062",
+    "lat": 44.6378149
+  }
+]

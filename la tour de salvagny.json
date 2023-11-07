@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FREDERIC LA TOUR",
+    "agrement": "E1206912820",
+    "adresse": "2 rue de la Mairie",
+    "cp": "69890",
+    "ville": "La Tour de Salvagny",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "65,96%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7162015",
+    "lat": 45.8146613
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DS",
+    "agrement": "E0704203160",
+    "adresse": "2 RUE JEAN MOULIN",
+    "cp": "42420",
+    "ville": "LORETTE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "46,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.5797789",
+    "lat": 45.5119829
+  }
+]

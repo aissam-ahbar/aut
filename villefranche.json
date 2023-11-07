@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DESTREBECQ. VILLEFRANCHE",
+    "agrement": "E0201201100",
+    "adresse": "PLACE JEAN JAURES. 12200 VILLEFRANCHE",
+    "cp": "12200",
+    "ville": "VILLEFRANCHE",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "54,01%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.0341259",
+    "lat": 44.352593
+  }
+]

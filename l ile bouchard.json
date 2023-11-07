@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SAINT GILLES ECOLE DE CONDUITE",
+    "agrement": "E0403731370",
+    "adresse": "20 BIS RUE DE LA LIBERTE",
+    "cp": "37220",
+    "ville": "L ILE BOUCHARD",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "73,85%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.426061",
+    "lat": 47.122572
+  }
+]

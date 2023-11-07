@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C CITY PRO",
+    "agrement": "E1505100010",
+    "adresse": "2 avenue des Crayères",
+    "cp": "51520",
+    "ville": "LA VEUVE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "14,29%",
+    "tauxc1": "90,00%",
+    "tauxce": "87,50%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.3221683",
+    "lat": 49.0389148
+  }
+]

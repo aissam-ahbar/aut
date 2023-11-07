@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SAINT JUST",
+    "agrement": "E0400702500",
+    "adresse": "PLACE DE L EGLISE",
+    "cp": "7700",
+    "ville": "ST JUST D ARDECHE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "75,47%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.6121584",
+    "lat": 44.3030965
+  }
+]

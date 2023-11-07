@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VERT SAINT DENIS",
+    "agrement": "E1407700110",
+    "adresse": "15 AVENUE DU BOIS VERT",
+    "cp": "77240",
+    "ville": "VERT SAINT DENIS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "100,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.6285425",
+    "lat": 48.565243
+  }
+]

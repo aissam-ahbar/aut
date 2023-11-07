@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ROUE LIBRE",
+    "agrement": "E1401700080",
+    "adresse": "Rue de la Juillerie ZC de l'Aunis",
+    "cp": "17170",
+    "ville": "FERRIERES",
+    "tauxa1": "100,00%",
+    "tauxa2": "82,14%",
+    "tauxb": "74,03%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.876064890038596",
+    "lat": 46.2282851
+  }
+]

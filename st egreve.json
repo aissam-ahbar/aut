@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CESR",
+    "agrement": "E0203803430",
+    "adresse": "27 RUE DES GLAIRAUX",
+    "cp": "38120",
+    "ville": "ST EGREVE",
+    "tauxa1": "57,14%",
+    "tauxa2": "82,67%",
+    "tauxb": "54,89%",
+    "tauxb1": "",
+    "tauxbe": "73,98%",
+    "tauxc1": "78,61%",
+    "tauxce": "80,52%",
+    "tauxd": "82,35%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.6727796",
+    "lat": 45.2224415
+  }
+]

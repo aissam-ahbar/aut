@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SERVANT_ST SIGOLENE",
+    "agrement": "E1404300050",
+    "adresse": "1 RUE DE SAINT DIDIER",
+    "cp": "43600",
+    "ville": "SAINTE SIGOLENE",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "48,57%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.2353639",
+    "lat": 45.243789
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CONDUITE 50",
+    "agrement": "E0705005060",
+    "adresse": "7 RUE CAPITAINE DAIREAUX",
+    "cp": "50570",
+    "ville": "MARIGNY",
+    "tauxa1": "100,00%",
+    "tauxa2": "85,71%",
+    "tauxb": "56,16%",
+    "tauxb1": "",
+    "tauxbe": "77,78%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.2431224",
+    "lat": 49.0984821
+  }
+]

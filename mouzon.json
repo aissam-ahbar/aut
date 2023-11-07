@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MARCHANT",
+    "agrement": "E1000803010",
+    "adresse": "21 RUE DE LA PORTE DE FRANCE",
+    "cp": "8210",
+    "ville": "MOUZON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,13%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.0745152",
+    "lat": 49.6052068
+  }
+]

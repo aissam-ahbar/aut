@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SAINT AMOUR",
+    "agrement": "E1203903200",
+    "adresse": "2 rue Sainte Marie",
+    "cp": "39160",
+    "ville": "Saint Amour",
+    "tauxa1": "100,00%",
+    "tauxa2": "88,24%",
+    "tauxb": "62,50%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.3432306",
+    "lat": 46.4359874
+  }
+]

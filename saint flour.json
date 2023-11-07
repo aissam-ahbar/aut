@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MEALET_ST FLOUR",
+    "agrement": "E0901501340",
+    "adresse": "6 AVENUE DE BESSERETTE",
+    "cp": "15100",
+    "ville": "SAINT FLOUR",
+    "tauxa1": "87,50%",
+    "tauxa2": "85,45%",
+    "tauxb": "73,20%",
+    "tauxb1": "",
+    "tauxbe": "77,78%",
+    "tauxc1": "93,94%",
+    "tauxce": "85,71%",
+    "tauxd": "100,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.0811148",
+    "lat": 45.0366573
+  }
+]

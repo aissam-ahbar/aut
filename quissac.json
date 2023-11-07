@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "NATHALY",
+    "agrement": "E0803004330",
+    "adresse": "152 AV DE L AIGOUAL",
+    "cp": "30260",
+    "ville": "QUISSAC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "52,48%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.0014564",
+    "lat": 43.9106812
+  }
+]

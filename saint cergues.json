@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "JULES FERRY AUTO MOTO 74",
+    "agrement": "E1207497940",
+    "adresse": "Route de la Cave aux Fées",
+    "cp": "74140",
+    "ville": "SAINT CERGUES",
+    "tauxa1": "77,78%",
+    "tauxa2": "93,68%",
+    "tauxb": "62,77%",
+    "tauxb1": "",
+    "tauxbe": "82,35%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.314205",
+    "lat": 46.2226574
+  }
+]

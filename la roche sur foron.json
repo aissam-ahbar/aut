@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FORON",
+    "agrement": "E1607400080",
+    "adresse": "151 rue Jeanne Antide Thouret",
+    "cp": "74800",
+    "ville": "LA ROCHE SUR FORON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "53,85%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.308994953608247",
+    "lat": 46.066146
+  }
+]

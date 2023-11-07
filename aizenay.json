@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2108500110",
+    "raison_sociale": "SARL ECOLE DE CONDUITE EMMANUEL MASSON",
+    "adresse": "27 RUE DU MARÉCHAL FOCH",
+    "cp": 85190,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "AIZENAY",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-1.60988878636364",
+    "lat": 46.738807
+  }
+]

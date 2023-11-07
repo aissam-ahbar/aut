@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "JUVISY TREMPLIN",
+    "agrement": "E1509100220",
+    "adresse": "38 RUE VICTOR HUGO",
+    "cp": "91260",
+    "ville": "JUVISY-SUR-ORGE",
+    "tauxa1": "",
+    "tauxa2": "92,86%",
+    "tauxb": "45,11%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3781437",
+    "lat": 48.6908264
+  }
+]

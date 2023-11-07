@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FORUM CONDUITE",
+    "agrement": "E1709300180",
+    "adresse": "8, Place de la Libération",
+    "cp": "93150",
+    "ville": "BLANC MESNIL",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "20,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.466124773320895",
+    "lat": 48.9436599
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DELAHAYE",
+    "agrement": "E0807304610",
+    "adresse": "788, route d'Aix-les-Bains",
+    "cp": "73420",
+    "ville": "VIVIERS-DU-LAC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "0,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.9107922",
+    "lat": 45.6426594
+  }
+]

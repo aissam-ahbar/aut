@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "D - AUTO ECOLE DU PONT DE METZ",
+    "agrement": "E0308001140",
+    "adresse": "19 ROUTE DE ROUEN",
+    "cp": "80840",
+    "ville": "PONT DE METZ",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "61,83%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.2587982",
+    "lat": 49.88172
+  }
+]

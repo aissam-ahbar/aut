@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LIGNE DE CONDUITE",
+    "agrement": "E1405800040",
+    "adresse": "5  rue SAINT MICHEL",
+    "cp": "58410",
+    "ville": "ENTRAINS SUR NOHAIN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "67,44%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.2556963",
+    "lat": 47.4633946
+  }
+]

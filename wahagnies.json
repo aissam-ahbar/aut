@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FLASH CONDUITE",
+    "agrement": "E1405900420",
+    "adresse": "27 RUE JULES FERRY",
+    "cp": "59261",
+    "ville": "WAHAGNIES",
+    "tauxa1": "",
+    "tauxa2": "80,00%",
+    "tauxb": "66,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.0354844",
+    "lat": 50.4863512
+  }
+]

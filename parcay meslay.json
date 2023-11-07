@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C.V.F",
+    "agrement": "E0403731360",
+    "adresse": "RUE DE LA MAIRIE",
+    "cp": "37210",
+    "ville": "PARCAY MESLAY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,13%",
+    "tauxb1": "",
+    "tauxbe": "63,64%",
+    "tauxc1": "100,00%",
+    "tauxce": "100,00%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.7409675",
+    "lat": 47.4461751
+  }
+]

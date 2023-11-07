@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ALIENOR II",
+    "agrement": "E0303310940",
+    "adresse": "28 AVENUE ST EXUPERY",
+    "cp": "33530",
+    "ville": "BASSENS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.5138865",
+    "lat": 44.9019344
+  }
+]

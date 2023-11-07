@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EVOLUTION",
+    "agrement": "E1503800190",
+    "adresse": "PLACE DE LA BASCULE",
+    "cp": "38440",
+    "ville": "CHATONNAY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "48,15%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.205728116646545",
+    "lat": 45.48625985
+  }
+]

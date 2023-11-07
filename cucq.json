@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MARTEL",
+    "agrement": "E0306213390",
+    "adresse": "1396 avenue de la Libération",
+    "cp": "62780",
+    "ville": "CUCQ",
+    "tauxa1": "",
+    "tauxa2": "97,30%",
+    "tauxb": "71,43%",
+    "tauxb1": "",
+    "tauxbe": "70,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.6229991",
+    "lat": 50.4870166
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "L.K",
+    "agrement": "E1803500700",
+    "adresse": "55 rue de Montfort",
+    "cp": "35310",
+    "ville": "Bréal sous Montfort",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.8683075",
+    "lat": 48.0497052
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PERFECT CONDUITE",
+    "agrement": "E1106215960",
+    "adresse": "69 rue d'Estaires",
+    "cp": "62138",
+    "ville": "VIOLAINES",
+    "tauxa1": "",
+    "tauxa2": "80,00%",
+    "tauxb": "72,69%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.7980214",
+    "lat": 50.5442564
+  }
+]

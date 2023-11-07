@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PÖREE",
+    "agrement": "E1305000090",
+    "adresse": "14 rue de la Libération",
+    "cp": "50750",
+    "ville": "Saint Samson de Bonfossé",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "59,57%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.1283926",
+    "lat": 49.0486187
+  }
+]

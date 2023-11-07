@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ISABELLE",
+    "agrement": "E0303001770",
+    "adresse": "21 AVENUE FREDERIC MISTRAL",
+    "cp": "30650",
+    "ville": "ROCHEFORT DU GARD",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "74,72%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.6882808",
+    "lat": 43.9750739
+  }
+]

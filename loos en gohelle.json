@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "STO'P'ERMIS",
+    "agrement": "E0306213170",
+    "adresse": "32 rue Hoche",
+    "cp": "62750",
+    "ville": "LOOS EN GOHELLE",
+    "tauxa1": "",
+    "tauxa2": "83,33%",
+    "tauxb": "69,81%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.7956933",
+    "lat": 50.4597674
+  }
+]

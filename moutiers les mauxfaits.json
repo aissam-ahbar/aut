@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FOURNIER-FORMATION",
+    "agrement": "E1808500100",
+    "adresse": "13 Avenue Georges Clémenceau",
+    "cp": "85540",
+    "ville": "MOUTIERS LES MAUXFAITS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,79%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.4262661",
+    "lat": 46.4921845
+  }
+]

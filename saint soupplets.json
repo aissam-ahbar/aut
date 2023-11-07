@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ECF Saint-Soupplets",
+    "agrement": "E1807700210",
+    "adresse": "49 B2 rue du général Maunoury",
+    "cp": "77165",
+    "ville": "Saint Soupplets",
+    "tauxa1": "",
+    "tauxa2": "83,33%",
+    "tauxb": "38,64%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.7999224",
+    "lat": 49.0368479
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "E2CR Puget",
+    "agrement": "E1508300280",
+    "adresse": "rue Général de Gaulle",
+    "cp": "83480",
+    "ville": "Puget sur Argens",
+    "tauxa1": "",
+    "tauxa2": "66,67%",
+    "tauxb": "81,58%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.6912363",
+    "lat": 43.4523267
+  }
+]

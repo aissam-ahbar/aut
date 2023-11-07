@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "S CONDUITE",
+    "agrement": "E1709500110",
+    "adresse": "106 Avenue du Général leclerc",
+    "cp": "95230",
+    "ville": "Soisy sous Montmorency",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,70%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3022738",
+    "lat": 48.9811838
+  }
+]

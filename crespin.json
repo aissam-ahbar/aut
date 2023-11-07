@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ROAD CONDUITE",
+    "agrement": "E1305900610",
+    "adresse": "282 Rue des déportés",
+    "cp": "59154",
+    "ville": "CRESPIN",
+    "tauxa1": "",
+    "tauxa2": "95,35%",
+    "tauxb": "49,78%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.660751",
+    "lat": 50.4249893
+  }
+]

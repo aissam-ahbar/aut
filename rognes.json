@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LUBERON ECOLE DE CONDUITE.",
+    "agrement": "E1701300110",
+    "adresse": "8 AVENUE D'AIX",
+    "cp": "13840",
+    "ville": "ROGNES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "42,11%",
+    "tauxb1": "",
+    "tauxbe": "83,33%",
+    "tauxc1": "90,00%",
+    "tauxce": "100,00%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.3520758",
+    "lat": 43.6612507
+  }
+]

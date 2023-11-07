@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER PIERREFITTE",
+    "agrement": "E1009338130",
+    "adresse": "6, place jean Jaurès",
+    "cp": "93380",
+    "ville": "Pierrefitte sur Seine",
+    "tauxa1": "",
+    "tauxa2": "90,91%",
+    "tauxb": "64,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.359617",
+    "lat": 48.9659078
+  }
+]

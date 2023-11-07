@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VROOM",
+    "agrement": "E1404100140",
+    "adresse": "2 Place de la paix",
+    "cp": "41130",
+    "ville": "SELLES SUR CHER",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,28%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5541192",
+    "lat": 47.275378
+  }
+]

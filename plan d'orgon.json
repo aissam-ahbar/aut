@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DES ARENES",
+    "agrement": "E1001362960",
+    "adresse": "20 ROUTE D'AVIGNON",
+    "cp": "13750",
+    "ville": "PLAN D'ORGON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.9952921",
+    "lat": 43.8076972
+  }
+]

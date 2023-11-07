@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SALAGOU",
+    "agrement": "E0203404270",
+    "adresse": "22 RUE LAMARTINE",
+    "cp": "34800",
+    "ville": "CLERMONT L HERAULT",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.4327354",
+    "lat": 43.6260256
+  }
+]

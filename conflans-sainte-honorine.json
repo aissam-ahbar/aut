@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FLASH CONDUITE CONFLANS",
+    "agrement": "E1807800250",
+    "adresse": "80 Ter avenue Carnot",
+    "cp": "78700",
+    "ville": "Conflans-Sainte-Honorine",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "56,25%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.0938523",
+    "lat": 49.0002871
+  }
+]

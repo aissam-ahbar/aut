@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER SEIGNELAY",
+    "agrement": "E0308901610",
+    "adresse": "12 avenue COLBERT",
+    "cp": "89250",
+    "ville": "SEIGNELAY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "33,87%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.6004259",
+    "lat": 47.9039907
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FELIX",
+    "agrement": "E1305900690",
+    "adresse": "4 rue Lucien Dupas",
+    "cp": "59265",
+    "ville": "AUBIGNY AU BAC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "64,17%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.1665127",
+    "lat": 50.2615453
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0408803910",
+    "raison_sociale": "WANTZ",
+    "adresse": "14 RUE JULES FERRY",
+    "cp": 88160,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "LE THILLOT",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Non",
+    "permis_CE": "Oui",
+    "permis_C1E": "Non",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "6.7656119",
+    "lat": 47.881417
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2203000100",
+    "raison_sociale": "SUD PREVENTION SECURITE GRAND PUBLIC",
+    "adresse": "61 RUE LOUIS ARAGON",
+    "cp": 30400,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "VILLENEUVE-LES-AVIGNON",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Oui",
+    "permis_CE": "Oui",
+    "permis_C1E": "Oui",
+    "permis_D": "Oui",
+    "permis_D1": "Oui",
+    "permis_DE": "Oui",
+    "lng": "4.7852574",
+    "lat": 43.9797161
+  }
+]

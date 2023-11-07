@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1408700070",
+    "raison_sociale": "ECF-CER CENTRE ATLANTIQUE",
+    "adresse": "LE GUÉ DU MARCHAND",
+    "cp": 87570,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "RILHAC-RANCON",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Oui",
+    "permis_CE": "Oui",
+    "permis_C1E": "Oui",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Oui",
+    "lng": "1.3068456",
+    "lat": 45.8971049
+  }
+]

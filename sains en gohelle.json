@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "OBJECTIF permis_B",
+    "agrement": "E0306212180",
+    "adresse": "39 rue du Général Leclerc",
+    "cp": "62114",
+    "ville": "SAINS EN GOHELLE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "71,05%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.6853055",
+    "lat": 50.448465
+  }
+]

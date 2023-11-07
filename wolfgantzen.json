@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VAUBAN",
+    "agrement": "E0706800120",
+    "adresse": "RUE PRINCIPALE",
+    "cp": "68600",
+    "ville": "WOLFGANTZEN",
+    "tauxa1": "100,00%",
+    "tauxa2": "94,12%",
+    "tauxb": "53,79%",
+    "tauxb1": "",
+    "tauxbe": "80,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "7.5057203",
+    "lat": 48.0255916
+  }
+]

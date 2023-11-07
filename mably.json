@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DE MABLY",
+    "agrement": "E0204201390",
+    "adresse": "199  ROUTE DE BRIENNON",
+    "cp": "42300",
+    "ville": "MABLY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "63,33%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.0733188",
+    "lat": 46.0732607
+  }
+]

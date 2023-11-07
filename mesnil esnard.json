@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "1MESNIL CONDUITE",
+    "agrement": "E0907609910",
+    "adresse": "85 BIS ROUTE DE PARIS",
+    "cp": "76240",
+    "ville": "MESNIL ESNARD",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,33%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.1407368",
+    "lat": 49.410888
+  }
+]

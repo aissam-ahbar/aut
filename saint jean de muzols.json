@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SEMPERBONI",
+    "agrement": "E1800700050",
+    "adresse": "1 PLACE DE LA ROCHETTE",
+    "cp": "7300",
+    "ville": "SAINT JEAN DE MUZOLS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "70,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.8158552",
+    "lat": 45.0845803
+  }
+]

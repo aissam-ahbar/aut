@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FONTBELLON",
+    "agrement": "E0200702150",
+    "adresse": "LA CHAPELETTE",
+    "cp": "7200",
+    "ville": "ST ETIENNE DE FONTBELLON",
+    "tauxa1": "100,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "86,11%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.3770863",
+    "lat": 44.5935976
+  }
+]

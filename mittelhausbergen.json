@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MILLE BORNES",
+    "agrement": "E1006706170",
+    "adresse": "26 route de Strasbourg",
+    "cp": "67200",
+    "ville": "MITTELHAUSBERGEN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "64,38%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.7042297",
+    "lat": 48.6051248
+  }
+]

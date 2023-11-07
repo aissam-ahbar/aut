@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CEC74 - FRANGY",
+    "agrement": "E0207427020",
+    "adresse": "RUE DU GRAND PONT,85.",
+    "cp": "74270",
+    "ville": "FRANGY",
+    "tauxa1": "75,00%",
+    "tauxa2": "95,24%",
+    "tauxb": "60,09%",
+    "tauxb1": "100,00%",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.9260224",
+    "lat": 46.0185652
+  }
+]

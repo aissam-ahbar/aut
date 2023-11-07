@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FTSR Dangé",
+    "agrement": "E1808600080",
+    "adresse": "20 rue de la rivière",
+    "cp": "86220",
+    "ville": "Dangé st romain",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.6039201",
+    "lat": 46.9400503
+  }
+]

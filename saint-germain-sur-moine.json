@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1804900080",
+    "raison_sociale": "ZEBRA FORMATION",
+    "adresse": "2 PLACE DU CHATEAU DE MONDEMENT",
+    "cp": 49230,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SAINT-GERMAIN-SUR-MOINE",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Non",
+    "permis_A1": "Oui",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-1.123853",
+    "lat": 47.1186618
+  }
+]

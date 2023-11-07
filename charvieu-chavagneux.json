@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2103800130",
+    "raison_sociale": "CLE EN MAIN",
+    "adresse": "10 RUE DES ALLOBROGES",
+    "cp": 38230,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "CHARVIEU-CHAVAGNEUX",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "5.161721",
+    "lat": 45.740987
+  }
+]

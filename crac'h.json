@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ZZ AF2R Crac'h",
+    "agrement": "E1405600100",
+    "adresse": "1, kermarquer",
+    "cp": "56950",
+    "ville": "CRAC'H",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.9926429",
+    "lat": 47.6218637
+  }
+]

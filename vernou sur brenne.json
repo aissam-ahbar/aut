@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "école de conduite VERNOU",
+    "agrement": "E1403700150",
+    "adresse": "2 bis place du centenaire.",
+    "cp": "37210",
+    "ville": "VERNOU SUR BRENNE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,26%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.8459888",
+    "lat": 47.4211543
+  }
+]

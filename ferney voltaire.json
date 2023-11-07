@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "E.de C. du Centre d'Aumard",
+    "agrement": "E1100104580",
+    "adresse": "26 ch. des Muriers",
+    "cp": "1210",
+    "ville": "Ferney Voltaire",
+    "tauxa1": "80,00%",
+    "tauxa2": "92,86%",
+    "tauxb": "54,64%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.1115408",
+    "lat": 46.2591043
+  }
+]

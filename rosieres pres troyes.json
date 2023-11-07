@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Rosières autoécole",
+    "agrement": "E1201002190",
+    "adresse": "7 bis rue du chêne",
+    "cp": "10430",
+    "ville": "rosières près troyes",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "62,50%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.061016499115874",
+    "lat": 48.2582182
+  }
+]

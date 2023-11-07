@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "N'RGY",
+    "agrement": "E1807400010",
+    "adresse": "80 route de Bellegarde",
+    "cp": "74520",
+    "ville": "VALLEIRY",
+    "tauxa1": "66,67%",
+    "tauxa2": "87,50%",
+    "tauxb": "59,09%",
+    "tauxb1": "",
+    "tauxbe": "40,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.9654877",
+    "lat": 46.1066921
+  }
+]

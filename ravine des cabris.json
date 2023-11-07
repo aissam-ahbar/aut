@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EURO CONDUITE SUD",
+    "agrement": "E0209D28800",
+    "adresse": "83, LIGNE DES BAMBOUS",
+    "cp": "97432",
+    "ville": "RAVINE DES CABRIS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "63,07%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "55.4939931",
+    "lat": -21.3028527
+  }
+]

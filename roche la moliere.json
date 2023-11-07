@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "COOL CONDUITE",
+    "agrement": "E1204203850",
+    "adresse": "15 rue Gambetta",
+    "cp": "42230",
+    "ville": "Roche la Molière",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "68,18%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.3288279",
+    "lat": 45.4331938
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "E2CR PILOTE",
+    "agrement": "E0308309690",
+    "adresse": "23 AV DU GENERAL DE GAULLE",
+    "cp": "83520",
+    "ville": "ROQUEBRUNE SUR ARGENS",
+    "tauxa1": "100,00%",
+    "tauxa2": "83,33%",
+    "tauxb": "63,03%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.636549",
+    "lat": 43.4456547
+  }
+]

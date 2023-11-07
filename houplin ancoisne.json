@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AEH",
+    "agrement": "E1205921860",
+    "adresse": "107 RUE JEAN JAURES",
+    "cp": "59263",
+    "ville": "HOUPLIN ANCOISNE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.9856648",
+    "lat": 50.5733118
+  }
+]

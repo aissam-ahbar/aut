@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "E CLAUD INN",
+    "agrement": "E0205501370",
+    "adresse": "11 PLACE DE LA MARTINIQUE",
+    "cp": "55400",
+    "ville": "ETAIN",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "77,78%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.6339157",
+    "lat": 49.2130123
+  }
+]

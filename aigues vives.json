@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "JP CONDUITE",
+    "agrement": "E1503000070",
+    "adresse": "60 GRAND RUE",
+    "cp": "30670",
+    "ville": "AIGUES VIVES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "71,88%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.1810584",
+    "lat": 43.7392991
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "NCY 321 PERMIS",
+    "agrement": "E1705400030",
+    "adresse": "27 RUE SADI CARNOT",
+    "cp": "54220",
+    "ville": "MALZEVILLE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "45,45%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.1846945",
+    "lat": 48.7074811
+  }
+]

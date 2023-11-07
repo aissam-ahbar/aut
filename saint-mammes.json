@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Seine et Loing Conduite",
+    "agrement": "E1207718740",
+    "adresse": "1 rue Grande",
+    "cp": "77670",
+    "ville": "Saint-Mammes",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "71,43%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.8111223",
+    "lat": 48.3848816
+  }
+]

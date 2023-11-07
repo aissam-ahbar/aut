@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MARC SINNAMARY",
+    "agrement": "E0209C00590",
+    "adresse": "05 rue du calvaire",
+    "cp": "97315",
+    "ville": "SINNAMARY",
+    "tauxa1": "",
+    "tauxa2": "75,00%",
+    "tauxb": "48,10%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-52.9587561",
+    "lat": 5.3769247
+  }
+]

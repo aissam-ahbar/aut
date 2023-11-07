@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Max Conduite",
+    "agrement": "E1705000070",
+    "adresse": "31 rue du Génie",
+    "cp": "50220",
+    "ville": "Ducey les Chéris",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,94%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.2916217",
+    "lat": 48.6195315
+  }
+]

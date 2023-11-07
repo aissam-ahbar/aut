@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Auto-école GENDILLOUT",
+    "agrement": "E1801900010",
+    "adresse": "7 route Nationale",
+    "cp": "19460",
+    "ville": "Naves",
+    "tauxa1": "66,67%",
+    "tauxa2": "100,00%",
+    "tauxb": "73,68%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.7690576",
+    "lat": 45.3209048
+  }
+]

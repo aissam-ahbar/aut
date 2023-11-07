@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CONDUITE A VENIR",
+    "agrement": "E1400900020",
+    "adresse": "1 place Jean Jaurès",
+    "cp": "9100",
+    "ville": "Saint-Jean-du-Falga",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "43,75%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.628192051424051",
+    "lat": 43.085257
+  }
+]

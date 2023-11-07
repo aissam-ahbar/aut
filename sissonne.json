@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DE SISSONNE",
+    "agrement": "E0700235880",
+    "adresse": "1 RUE DU 11 NOVEMBRE 1918",
+    "cp": "2150",
+    "ville": "SISSONNE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "100,00%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.891696",
+    "lat": 49.573814
+  }
+]

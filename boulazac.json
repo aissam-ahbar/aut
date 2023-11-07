@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FAUVEL AE BOULAZAC",
+    "agrement": "E0202404240",
+    "adresse": "AVENUE FIRMIN BOUVIER",
+    "cp": "24750",
+    "ville": "BOULAZAC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "59,38%",
+    "tauxc1": "72,46%",
+    "tauxce": "75,93%",
+    "tauxd": "75,00%",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.7675626",
+    "lat": 45.1782266
+  }
+]

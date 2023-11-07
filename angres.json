@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "L'INTER",
+    "agrement": "E0306214490",
+    "adresse": "3 rue Georges Clémenceau",
+    "cp": "62143",
+    "ville": "ANGRES",
+    "tauxa1": "",
+    "tauxa2": "95,83%",
+    "tauxb": "56,29%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.7647303",
+    "lat": 50.4065648
+  }
+]

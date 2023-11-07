@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DUMAS FORMATION",
+    "agrement": "E1404000230",
+    "adresse": "36 avenue Julian Grimau",
+    "cp": "40220",
+    "ville": "TARNOS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,93%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.4887889",
+    "lat": 43.5476834
+  }
+]

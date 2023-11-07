@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "auto-école LIGNE DE CONDUITE",
+    "agrement": "E1200236100",
+    "adresse": "29 place de l'hôtel de ville",
+    "cp": "2340",
+    "ville": "MONTCORNET",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "71,43%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.0162054",
+    "lat": 49.6946691
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "REGIS CAMUT",
+    "agrement": "E1201002130",
+    "adresse": "1 rue GRASSIN",
+    "cp": "10700",
+    "ville": "ARCIS SUR AUBE",
+    "tauxa1": "66,67%",
+    "tauxa2": "96,67%",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "93,33%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.1440058",
+    "lat": 48.5340092
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "PLOEUCOISE",
+    "agrement": "E0602205550",
+    "adresse": "23 RUE DE LA GARE",
+    "cp": "22150",
+    "ville": "PLOEUC SUR LIE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "62,03%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-2.7731419",
+    "lat": 48.3437643
+  }
+]

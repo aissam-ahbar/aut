@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GMP AE",
+    "agrement": "E1503300130",
+    "adresse": "5 Place du Souvenir",
+    "cp": "33610",
+    "ville": "CESTAS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "56,25%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.6851001",
+    "lat": 44.7419517
+  }
+]

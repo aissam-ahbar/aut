@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BUCHHOLTZ",
+    "agrement": "E0200802460",
+    "adresse": "29 AVENUE BOURGOIN",
+    "cp": "8300",
+    "ville": "SAULT LES RETHEL",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,67%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.3598984",
+    "lat": 49.5017732
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1905900140",
+    "raison_sociale": "AUTO MOTO ECOLE DOMINIQUE FORMATION",
+    "adresse": "67 RUE DU CAPITAINE LHEUREUX",
+    "cp": 59184,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "SAINGHIN-EN-WEPPES",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.9019353",
+    "lat": 50.5604946
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C - TRISKEL AUTO MOTO ECOLE",
+    "agrement": "E0506004300",
+    "adresse": "181 PLACE DU BAIL",
+    "cp": "60490",
+    "ville": "RESSONS SUR MATZ",
+    "tauxa1": "",
+    "tauxa2": "75,00%",
+    "tauxb": "45,90%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.7440562",
+    "lat": 49.5385362
+  }
+]

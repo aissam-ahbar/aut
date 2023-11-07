@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0304405950",
+    "raison_sociale": "BOURGNEUF EDUCATION ROUTIÈRE",
+    "adresse": "ZA DES JAUNINS",
+    "cp": 44580,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "BOURGNEUF-EN-RETZ",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-1.9403356",
+    "lat": 47.0443481
+  }
+]

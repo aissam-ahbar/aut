@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Coustellet",
+    "agrement": "E1308400040",
+    "adresse": "65 route d'Apt",
+    "cp": "84220",
+    "ville": "Cabrières d'Avignon",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,72%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.1500866",
+    "lat": 43.8676866
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "V.JACQUET SCT",
+    "agrement": "E1303800060",
+    "adresse": "405 avenue de savoie",
+    "cp": "38110",
+    "ville": "ST CLAIR DE LA TOUR",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "68,63%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.4543133",
+    "lat": 45.5673948
+  }
+]

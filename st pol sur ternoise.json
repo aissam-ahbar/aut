@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "VINCENT",
+    "agrement": "E0306213040",
+    "adresse": "22 place Maréchal Leclerc",
+    "cp": "62130",
+    "ville": "ST POL SUR TERNOISE",
+    "tauxa1": "0,00%",
+    "tauxa2": "96,30%",
+    "tauxb": "57,38%",
+    "tauxb1": "",
+    "tauxbe": "90,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "2.3369689",
+    "lat": 50.3824082
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GOURNAY",
+    "agrement": "E0209346020",
+    "adresse": "9 AVENUE JOFFRE",
+    "cp": "93460",
+    "ville": "GOURNAY SUR MARNE",
+    "tauxa1": "100,00%",
+    "tauxa2": "92,31%",
+    "tauxb": "64,13%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.5757431",
+    "lat": 48.8639235
+  }
+]

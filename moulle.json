@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU HAUT MONT",
+    "agrement": "E0806215490",
+    "adresse": "9 bis Place du Haut Mont",
+    "cp": "62910",
+    "ville": "MOULLE",
+    "tauxa1": "0,00%",
+    "tauxa2": "96,43%",
+    "tauxb": "75,16%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.1779866",
+    "lat": 50.7875791
+  }
+]

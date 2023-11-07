@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SPORT",
+    "agrement": "E0806800690",
+    "adresse": "81 RUE PRINCIPALE",
+    "cp": "68520",
+    "ville": "BURNHAUPT-LE-HAUT",
+    "tauxa1": "75,00%",
+    "tauxa2": "91,49%",
+    "tauxb": "66,35%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "7.1532823",
+    "lat": 47.7252247
+  }
+]

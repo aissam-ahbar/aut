@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "C'EST PERMIS",
+    "agrement": "E1208224080",
+    "adresse": "4 avenue du MIDI",
+    "cp": "82400",
+    "ville": "GOLFECH",
+    "tauxa1": "40,00%",
+    "tauxa2": "80,00%",
+    "tauxb": "45,59%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.855048",
+    "lat": 44.1131504
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SUARD VOVES",
+    "agrement": "E1702800070",
+    "adresse": "4 rue des trois rois",
+    "cp": "28150",
+    "ville": "Voves",
+    "tauxa1": "",
+    "tauxa2": "88,89%",
+    "tauxb": "64,71%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.6264299",
+    "lat": 48.2713105
+  }
+]

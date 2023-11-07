@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "SARL ECOLE DE CONDUITE GUIOT 1",
+    "agrement": "E1303300330",
+    "adresse": "80 Avenue Charles de Gaulle",
+    "cp": "33650",
+    "ville": "LA BREDE",
+    "tauxa1": "100,00%",
+    "tauxa2": "86,21%",
+    "tauxb": "67,74%",
+    "tauxb1": "",
+    "tauxbe": "78,57%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.5195205",
+    "lat": 44.6864998
+  }
+]

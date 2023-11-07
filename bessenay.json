@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LA BREVENNE",
+    "agrement": "E1606900010",
+    "adresse": "1 route de la Giraudière",
+    "cp": "69690",
+    "ville": "BESSENAY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "47,71%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.5479871",
+    "lat": 45.7524662
+  }
+]

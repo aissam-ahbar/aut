@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "GARGA CONDUITE",
+    "agrement": "E1602900140",
+    "adresse": "21 rue Jean-Louis LE GOFF",
+    "cp": "29790",
+    "ville": "PONT-CROIX",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "44,07%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-4.4895204",
+    "lat": 48.0429365
+  }
+]

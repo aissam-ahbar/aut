@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LA COCCINELLE",
+    "agrement": "E1305800010",
+    "adresse": "38 rue Delangle",
+    "cp": "58210",
+    "ville": "VARZY",
+    "tauxa1": "100,00%",
+    "tauxa2": "90,00%",
+    "tauxb": "57,83%",
+    "tauxb1": "",
+    "tauxbe": "75,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.3874134",
+    "lat": 47.3574557
+  }
+]

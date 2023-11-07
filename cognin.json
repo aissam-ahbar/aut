@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CER DES SAVOIES-COGNIN",
+    "agrement": "E1507300090",
+    "adresse": "36 ROUTE DE LYON",
+    "cp": "73160",
+    "ville": "COGNIN",
+    "tauxa1": "100,00%",
+    "tauxa2": "89,47%",
+    "tauxb": "45,00%",
+    "tauxb1": "",
+    "tauxbe": "70,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.8977031",
+    "lat": 45.5606117
+  }
+]

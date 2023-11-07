@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ERIC CRESCENT",
+    "agrement": "E1000314970",
+    "adresse": "3 rue Voltaire",
+    "cp": "3310",
+    "ville": "NERIS LES BAINS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "79,55%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.6624693",
+    "lat": 46.2860533
+  }
+]

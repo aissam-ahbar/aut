@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AJ ECOLE DE CONDUITE",
+    "agrement": "E1808900020",
+    "adresse": "27 rue de l'église",
+    "cp": "89100",
+    "ville": "MAILLOT",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "68,75%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.3057199",
+    "lat": 48.1771238
+  }
+]

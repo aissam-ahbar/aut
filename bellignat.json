@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "AAA+CER",
+    "agrement": "E1400100180",
+    "adresse": "7 place des Arcades",
+    "cp": "1100",
+    "ville": "BELLIGNAT",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "54,69%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.634565",
+    "lat": 46.2509697
+  }
+]

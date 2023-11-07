@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E0908406860",
+    "raison_sociale": "SARL  AUTO-ÉCOLE PALAYER 84",
+    "adresse": "576 ROUTE D'AVIGNON",
+    "cp": 84210,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "ALTHEN-DES-PALUDS",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Oui",
+    "permis_C1": "Oui",
+    "permis_CE": "Oui",
+    "permis_C1E": "Oui",
+    "permis_D": "Oui",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "4.9525232",
+    "lat": 44.0127012
+  }
+]

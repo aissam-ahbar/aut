@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ZZ SKYLINE",
+    "agrement": "E1603800070",
+    "adresse": "209 Grande rue",
+    "cp": "38160",
+    "ville": "SAINT ROMANS",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "70,59%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.3273971",
+    "lat": 45.1153265
+  }
+]

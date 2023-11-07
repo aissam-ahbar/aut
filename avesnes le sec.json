@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "L'AS DU VOLANT",
+    "agrement": "E1605900460",
+    "adresse": "1 BIS RUE ROUGET DE LISLE",
+    "cp": "59296",
+    "ville": "AVESNES LE SEC",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,69%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.3758411",
+    "lat": 50.2489348
+  }
+]

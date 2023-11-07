@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MON CFR MANDEURE",
+    "agrement": "E1702500010",
+    "adresse": "15 RUE DE L'EGLISE",
+    "cp": "25350",
+    "ville": "MANDEURE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "53,19%",
+    "tauxb1": "",
+    "tauxbe": "60,00%",
+    "tauxc1": "100,00%",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.806731816333334",
+    "lat": 47.4521176
+  }
+]

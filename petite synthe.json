@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU BANC VERT",
+    "agrement": "E1105921330",
+    "adresse": "39 AVENUE DE LA CITE",
+    "cp": "59640",
+    "ville": "PETITE SYNTHE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "57,48%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.3528686",
+    "lat": 51.0225894
+  }
+]

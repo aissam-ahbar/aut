@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LIGNE DE CONDUITE BIS",
+    "agrement": "E1104102780",
+    "adresse": "4 bis rue du Commerce",
+    "cp": "41240",
+    "ville": "OUZOUER LE MARCHE",
+    "tauxa1": "100,00%",
+    "tauxa2": "100,00%",
+    "tauxb": "48,84%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5282951",
+    "lat": 47.9110163
+  }
+]

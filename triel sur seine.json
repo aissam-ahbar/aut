@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "cer triel",
+    "agrement": "E1107813870",
+    "adresse": "119 rue Paul Doumer",
+    "cp": "78510",
+    "ville": "Triel sur Seine",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "52,60%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.004219",
+    "lat": 48.978951
+  }
+]

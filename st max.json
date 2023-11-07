@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "NCY PILOTE SARL AZUR",
+    "agrement": "E0305406320",
+    "adresse": "3 RUE ALEXANDRE 1ER",
+    "cp": "54130",
+    "ville": "ST MAX",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "60,45%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.2046314",
+    "lat": 48.6998167
+  }
+]

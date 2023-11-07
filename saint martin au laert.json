@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LAMBERT",
+    "agrement": "E0306213380",
+    "adresse": "30 route de Calais",
+    "cp": "62500",
+    "ville": "SAINT MARTIN AU LAERT",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "52,94%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.2234676",
+    "lat": 50.7509713
+  }
+]

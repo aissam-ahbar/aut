@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ALPILLES",
+    "agrement": "E1201363480",
+    "adresse": "Place de la Fenière",
+    "cp": "13640",
+    "ville": "La Roque d'Anthéron",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "74,65%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.305806527587302",
+    "lat": 43.7174282
+  }
+]

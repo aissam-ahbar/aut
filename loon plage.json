@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DRIVER",
+    "agrement": "E1405900310",
+    "adresse": "96 RUE DE MARDYCK",
+    "cp": "59279",
+    "ville": "LOON PLAGE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "51,97%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.220796",
+    "lat": 50.9959494
+  }
+]

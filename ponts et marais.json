@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "90LAURENT",
+    "agrement": "E1107610230",
+    "adresse": "5 BIS RUE LEGOUT-LESAGE",
+    "cp": "76260",
+    "ville": "PONTS ET MARAIS",
+    "tauxa1": "",
+    "tauxa2": "78,13%",
+    "tauxb": "52,21%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.4447813",
+    "lat": 50.0428051
+  }
+]

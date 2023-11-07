@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "6 MGF ST DIE",
+    "agrement": "E1208804610",
+    "adresse": "21,  RUE DE L'ORIENT",
+    "cp": "88100",
+    "ville": "ST DIE",
+    "tauxa1": "100,00%",
+    "tauxa2": "97,30%",
+    "tauxb": "60,99%",
+    "tauxb1": "",
+    "tauxbe": "92,31%",
+    "tauxc1": "96,77%",
+    "tauxce": "87,50%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.9523884",
+    "lat": 48.2864016
+  }
+]

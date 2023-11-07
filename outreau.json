@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ALBAIN AGENCE OUTRELOISE",
+    "agrement": "E1706200290",
+    "adresse": "9 rue de l'Egalité",
+    "cp": "62230",
+    "ville": "OUTREAU",
+    "tauxa1": "100,00%",
+    "tauxa2": "91,67%",
+    "tauxb": "44,62%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.5925972",
+    "lat": 50.7047272
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "de Septeuil",
+    "agrement": "E1407800150",
+    "adresse": "2 ter, Grand Cour",
+    "cp": "78790",
+    "ville": "Septeuil",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "51,52%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.6806881",
+    "lat": 48.8940434
+  }
+]

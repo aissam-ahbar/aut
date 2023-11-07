@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1800200040",
+    "raison_sociale": "HERBET ANTHONY",
+    "adresse": "14 RUE DU GENERAL MANGIN",
+    "cp": 2600,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "VILLERS-COTTERETS",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Non",
+    "permis_A": "Oui",
+    "permis_A1": "Non",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.0918665",
+    "lat": 49.2541576
+  }
+]

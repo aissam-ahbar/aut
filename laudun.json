@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LAUDUNOISE",
+    "agrement": "E1103042280",
+    "adresse": "place jules ferry",
+    "cp": "30290",
+    "ville": "LAUDUN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "90,57%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.6561486",
+    "lat": 44.1049033
+  }
+]

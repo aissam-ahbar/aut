@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "EVASION",
+    "agrement": "E0608605620",
+    "adresse": "2 AVENUE GERARD GIRAULT",
+    "cp": "86130",
+    "ville": "JAUNAY CLAN",
+    "tauxa1": "",
+    "tauxa2": "100,00%",
+    "tauxb": "69,23%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.3776499",
+    "lat": 46.6813936
+  }
+]

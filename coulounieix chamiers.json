@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CAZALETS AUTO ECOLE PILOTE",
+    "agrement": "E0402404550",
+    "adresse": "9 AVENUE GENERAL DE GAULLE",
+    "cp": "24660",
+    "ville": "COULOUNIEIX CHAMIERS",
+    "tauxa1": "100,00%",
+    "tauxa2": "97,30%",
+    "tauxb": "61,05%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.6862682",
+    "lat": 45.19242
+  }
+]

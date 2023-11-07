@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Auto école La ferme de Nandy",
+    "agrement": "E0707717470",
+    "adresse": "1 RUE D ARQUEIL",
+    "cp": "77176",
+    "ville": "NANDY",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "62,50%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.5627978",
+    "lat": 48.580408
+  }
+]

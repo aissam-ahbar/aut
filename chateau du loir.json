@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LEMONNIER - CHATEAU DU LOIR",
+    "agrement": "E0307203830",
+    "adresse": "109 rue Aristide Briand",
+    "cp": "72500",
+    "ville": "CHATEAU DU LOIR",
+    "tauxa1": "100,00%",
+    "tauxa2": "88,89%",
+    "tauxb": "71,23%",
+    "tauxb1": "",
+    "tauxbe": "100,00%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.4210557",
+    "lat": 47.6931577
+  }
+]

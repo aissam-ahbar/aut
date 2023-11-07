@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CECILE",
+    "agrement": "E1205921650",
+    "adresse": "RUE DU MOULIN",
+    "cp": "59550",
+    "ville": "MAROILLES",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "65,31%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.7581234",
+    "lat": 50.1328825
+  }
+]

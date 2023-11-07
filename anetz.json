@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BOMPAIS/ EC EST 44",
+    "agrement": "E1304400150",
+    "adresse": "Rue de l'Europe",
+    "cp": "44150",
+    "ville": "ANETZ",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "63,89%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-1.1041288",
+    "lat": 47.3844346
+  }
+]

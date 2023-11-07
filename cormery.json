@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CORMERY ECOLE DE CONDUITE",
+    "agrement": "E1103731890",
+    "adresse": "3 Place du marché",
+    "cp": "37320",
+    "ville": "CORMERY",
+    "tauxa1": "",
+    "tauxa2": "92,86%",
+    "tauxb": "50,57%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.8365338",
+    "lat": 47.2676702
+  }
+]

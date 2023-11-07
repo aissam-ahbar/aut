@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E2208500090",
+    "raison_sociale": "EMMANUEL MASSON",
+    "adresse": "37 RUE DU MARÉCHAL DE LATTRE DE TASSIGNY",
+    "cp": 85260,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "L'HERBERGEMENT",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Oui",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "-1.3751658",
+    "lat": 46.9105293
+  }
+]

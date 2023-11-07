@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ST CONDUITE (SARL TOURNE)",
+    "agrement": "E1802700010",
+    "adresse": "72A rue Saint Georges",
+    "cp": "27610",
+    "ville": "Romilly sur Andelle",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "55,56%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "1.2608582",
+    "lat": 49.3331698
+  }
+]

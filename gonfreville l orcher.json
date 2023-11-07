@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "6GONFREVILLE",
+    "agrement": "E0207608610",
+    "adresse": "PLACE DU VIEUX COLOMBIER",
+    "cp": "76700",
+    "ville": "GONFREVILLE L ORCHER",
+    "tauxa1": "",
+    "tauxa2": "91,58%",
+    "tauxb": "53,27%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "0.234118017835911",
+    "lat": 49.50324345
+  }
+]

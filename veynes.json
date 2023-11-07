@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1500500120",
+    "raison_sociale": "SARL GB AUTO ECOLE ZIG ZAG",
+    "adresse": "4 RUE BERTHELOT",
+    "cp": 5400,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "VEYNES",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Non",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "5.8241169",
+    "lat": 44.5343479
+  }
+]

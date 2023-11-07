@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ME AUTO-ECOLE MICHEL",
+    "agrement": "E0308309200",
+    "adresse": "RUE DU 11 NOVEMBRE",
+    "cp": "83990",
+    "ville": "SAINT-TROPEZ",
+    "tauxa1": "",
+    "tauxa2": "96,88%",
+    "tauxb": "79,17%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "6.6362762",
+    "lat": 43.2709096
+  }
+]

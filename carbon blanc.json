@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "CARBON CONDUITE",
+    "agrement": "Z1703300100",
+    "adresse": "72 avenue Austin Conte",
+    "cp": "33560",
+    "ville": "carbon blanc",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "48,44%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-0.4970817",
+    "lat": 44.8973052
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "MISSION PERMIS",
+    "agrement": "E1503800260",
+    "adresse": "8 PLACE PAUL MORAND",
+    "cp": "38550",
+    "ville": "PEAGE DE ROUSSILLON",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "73,81%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "4.7979188",
+    "lat": 45.3736958
+  }
+]

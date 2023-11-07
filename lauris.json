@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "S'COOL conduite",
+    "agrement": "E1408400020",
+    "adresse": "62 av Joseph Garnier",
+    "cp": "84360",
+    "ville": "Lauris",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "58,33%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.3133582",
+    "lat": 43.7463803
+  }
+]

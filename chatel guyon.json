@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "LAFONT 3",
+    "agrement": "E0706343630",
+    "adresse": "5 AVENUE DE L'EUROPE",
+    "cp": "63140",
+    "ville": "CHATEL GUYON",
+    "tauxa1": "",
+    "tauxa2": "66,67%",
+    "tauxb": "63,64%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.0725679",
+    "lat": 45.9194322
+  }
+]

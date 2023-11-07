@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "Plouharnel auto école",
+    "agrement": "E1605600080",
+    "adresse": "3 avenue de l'océan",
+    "cp": "56340",
+    "ville": "Plouharnel",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,15%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "-3.1126695",
+    "lat": 47.5987057
+  }
+]

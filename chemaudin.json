@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "BE SARL LLERENA FRANCHE COMTE",
+    "agrement": "E0802506000",
+    "adresse": "ZI DE CHEMAUDIN",
+    "cp": "25320",
+    "ville": "CHEMAUDIN",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "76,19%",
+    "tauxc1": "76,19%",
+    "tauxce": "85,71%",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "5.911083",
+    "lat": 47.2260989
+  }
+]

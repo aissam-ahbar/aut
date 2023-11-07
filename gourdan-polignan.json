@@ -1,0 +1,33 @@
+[
+  {
+    "agrement": "E1803100020",
+    "raison_sociale": "AUTO MOTO ECOLE TRAJECTOIRE GOURDAN POLIGNAN",
+    "adresse": "27 PLACE DE LA PRAIRIE",
+    "cp": 31210,
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "ville": "GOURDAN-POLIGNAN",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Oui",
+    "permis_A1": "Oui",
+    "permis_A2": "Oui",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "0.5845208",
+    "lat": 43.0769882
+  }
+]

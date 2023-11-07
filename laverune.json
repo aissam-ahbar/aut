@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "ATELIER CONDUITE",
+    "agrement": "E1403400170",
+    "adresse": "9 rue des Capriers",
+    "cp": "34880",
+    "ville": "LAVERUNE",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "66,15%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "3.8000749",
+    "lat": 43.5906589
+  }
+]

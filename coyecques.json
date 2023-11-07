@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "FOURICQUET",
+    "agrement": "E0506215020",
+    "adresse": "7 rue de Fauquembergues",
+    "cp": "62560",
+    "ville": "COYECQUES",
+    "tauxa1": "",
+    "tauxa2": "96,55%",
+    "tauxb": "55,26%",
+    "tauxb1": "",
+    "tauxbe": "85,71%",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "",
+    "permis_1euro_jour": "",
+    "permis_A": "",
+    "permis_A1": "",
+    "permis_A2": "",
+    "permis_B": "",
+    "permis_BE": "",
+    "permis_C": "",
+    "permis_C1": "",
+    "permis_CE": "",
+    "permis_C1E": "",
+    "permis_D": "",
+    "permis_D1": "",
+    "permis_DE": "",
+    "lng": "2.1715136",
+    "lat": 50.6011843
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "raison_sociale": "DU CENTRE",
+    "agrement": "E1505900520",
+    "adresse": "15/03 Chemin des vieux arbres",
+    "cp": "59650",
+    "ville": "VILLENEUVE D 'ASCQ",
+    "tauxa1": "",
+    "tauxa2": "",
+    "tauxb": "50,27%",
+    "tauxb1": "",
+    "tauxbe": "",
+    "tauxc1": "",
+    "tauxce": "",
+    "tauxd": "",
+    "label_qualite": "Oui",
+    "permis_1euro_jour": "Oui",
+    "permis_A": "Non",
+    "permis_A1": "Non",
+    "permis_A2": "Non",
+    "permis_B": "Oui",
+    "permis_BE": "Non",
+    "permis_C": "Non",
+    "permis_C1": "Non",
+    "permis_CE": "Non",
+    "permis_C1E": "Non",
+    "permis_D": "Non",
+    "permis_D1": "Non",
+    "permis_DE": "Non",
+    "lng": "3.1301148",
+    "lat": 50.6189781
+  }
+]
